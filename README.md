@@ -8,6 +8,7 @@
   - [What is Cloud Computing?](/cloud_computing.md)
   - [IAM: Identity Access & Management](/iam.md)
   - [EC2: Virtual Machines](/ec2.md)
+  - [EC2 Instance Storage](/ec2_storage.md)
 
 ### Contributors
 
