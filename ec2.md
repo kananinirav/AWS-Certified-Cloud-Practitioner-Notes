@@ -40,10 +40,10 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 ## EC2 Instance Types - Overview
 
 * You can use different types of EC2 instances that are optimised for different use cases (<https://aws.amazon.com/ec2/instance-types/>)
-  * [General Purpose](#ec2-instance-types-–-general-purpose)
-  * [Compute Optimized](#ec2-instance-types-–-compute-optimized)
-  * [Memory Optimized](#ec2-instance-types-–-memory-optimizedx)
-  * [Storage Optimized](#ec2-instance-types-–-storage-optimized)
+  * [General Purpose](#general-purpose)
+  * [Compute Optimized](#compute-optimized)
+  * [Memory Optimized](#memory-optimized)
+  * [Storage Optimized](#storage-optimized)
   * Accelerated Computing
 
 * AWS has the following naming convention: m5.2xlarge
@@ -51,7 +51,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 * 5: generation (AWS improves them over time)
 * 2xlarge: size within the instance class
 
-## EC2 Instance Types – General Purpose
+## General Purpose
 
 * Great for a diversity of workloads such as web servers or code repositories
 * Balance between:
@@ -59,7 +59,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   * Memory
   * Networking
 
-## EC2 Instance Types – Compute Optimized
+## Compute Optimized
 
 * Great for compute-intensive tasks that require high performance processors:
   * Batch processing workloads
@@ -69,7 +69,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   * Scientific modeling & machine learning
   * Dedicated gaming servers
 
-## EC2 Instance Types – Memory Optimized
+## Memory Optimized
 
 * Fast performance for workloads that process large data sets in memory
 * Use cases:
@@ -78,7 +78,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   * In-memory databases optimized for BI (business intelligence)
   * Applications performing real-time processing of big unstructured data
 
-## EC2 Instance Types – Storage Optimized
+## Storage Optimized
 
 * Great for storage-intensive tasks that require high, sequential read and write access to large data sets on local storage
 * Use cases:
