@@ -9,7 +9,8 @@
   - [IAM: Identity Access & Management](/iam.md)
   - [EC2: Virtual Machines](/ec2.md)
   - [EC2 Instance Storage](/ec2_storage.md)
-  - [Elastic Load Balancing & Auto Scaling Groups Section](/elb_asg.md)
+  - [Elastic Load Balancing & Auto Scaling Groups](/elb_asg.md)
+  - [Amazon S3](/s3.md)
 
 ### Contributors
 
