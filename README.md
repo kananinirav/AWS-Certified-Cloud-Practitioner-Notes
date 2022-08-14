@@ -12,7 +12,8 @@
   - [Elastic Load Balancing & Auto Scaling Groups](/elb_asg.md)
   - [Amazon S3](/s3.md)
   - [Databases & Analytics](/databases.md)
-  - [Other Compute Section](/databases.md)
+  - [Other Compute Section](/other_compute.md)
+  - [Deploying and Managing Infrastructure at Scale Section](/other_compute.md)
 
 ### Contributors
 
