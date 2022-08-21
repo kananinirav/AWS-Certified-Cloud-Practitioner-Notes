@@ -16,7 +16,7 @@
     - [AWS Availability Zones](#aws-availability-zones)
     - [AWS Points of Presence (Edge Locations)](#aws-points-of-presence-edge-locations)
   - [Tour of the AWS Console](#tour-of-the-aws-console)
-  - [Shared Responsibility Model diagram](#shared-responsibility-model-diagram)
+  - [Shared Responsibility Model](#shared-responsibility-model)
 
 ## What is Cloud Computing?
 
@@ -182,7 +182,7 @@ If you need to launch a new application, where should you do it?
   - Rekognition (Software as a Service)
 - **Region Table:** <https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services>
 
-## Shared Responsibility Model diagram
+## Shared Responsibility Model
 
 - CUSTOMER = RESPONSIBILITY FOR THE SECURITY **IN** THE CLOUD
 - AWS = RESPONSIBILITY FOR THE SECURITY **OF** THE CLOUD
