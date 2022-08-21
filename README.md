@@ -14,6 +14,7 @@
 - [Other Compute Section](sections/other_compute.md)
 - [Deploying and Managing Infrastructure at Scale](sections/deploying.md)
 - [Global Infrastructure](sections/global_infrastructure.md)
+- [Cloud Integration](sections/cloud_integration.md)
 
 ### Contributors
 
