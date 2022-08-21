@@ -12,7 +12,8 @@
 - [Amazon S3](sections/s3.md)
 - [Databases & Analytics](sections/databases.md)
 - [Other Compute Section](sections/other_compute.md)
-- [Deploying and Managing Infrastructure at Scale Section](sections/deploying.md)
+- [Deploying and Managing Infrastructure at Scale](sections/deploying.md)
+- [Global Infrastructure](sections/global_infrastructure.md)
 
 ### Contributors
 
