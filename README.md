@@ -16,6 +16,7 @@
 - [Global Infrastructure](sections/global_infrastructure.md)
 - [Cloud Integration](sections/cloud_integration.md)
 - [Cloud Monitoring](sections/cloud_monitoring.md)
+- [VPC](sections/vpc.md)
 
 ### Contributors
 
