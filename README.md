@@ -18,6 +18,7 @@
 - [Cloud Monitoring](sections/cloud_monitoring.md)
 - [VPC](sections/vpc.md)
 - [Security & Compliance](sections/Security-Compliance.md)
+- [Machine Learning](sections/machine-learning.md)
 
 ### Contributors
 
