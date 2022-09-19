@@ -17,8 +17,10 @@
 - [Cloud Integration](sections/cloud_integration.md)
 - [Cloud Monitoring](sections/cloud_monitoring.md)
 - [VPC](sections/vpc.md)
-- [Security & Compliance](sections/Security-Compliance.md)
-- [Machine Learning](sections/machine-learning.md)
+- [Security & Compliance](sections/security_compliance.md)
+- [Machine Learning](sections/machine_learning.md)
+- [Account Management, Billing & Support](sections/account_management_billing_support.md)
+
 
 ### Contributors
 
