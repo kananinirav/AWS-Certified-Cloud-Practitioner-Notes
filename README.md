@@ -17,6 +17,7 @@
 - [Cloud Integration](sections/cloud_integration.md)
 - [Cloud Monitoring](sections/cloud_monitoring.md)
 - [VPC](sections/vpc.md)
+- [Security & Compliance](sections/Security-Compliance.md)
 
 ### Contributors
 
