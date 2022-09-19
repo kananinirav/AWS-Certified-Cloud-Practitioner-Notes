@@ -1,8 +1,9 @@
 # AWS Certified Cloud Practitioner Short Notes
 
-## AWS Cloud Practitioner exam
+- This will help you for quick revision before exam.
+- If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
 
-### Table of contents
+## Table of contents
 
 - [What is Cloud Computing?](sections/cloud_computing.md)
 - [IAM: Identity Access & Management](sections/iam.md)
@@ -21,7 +22,6 @@
 - [Machine Learning](sections/machine_learning.md)
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
 
-
-### Contributors
+## Contributors
 
 Please feel free to contribute by making a Pull Request!
