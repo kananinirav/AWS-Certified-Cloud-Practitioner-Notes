@@ -1,4 +1,4 @@
-# AWS-Certified-Cloud-Practitioner-Notes
+# AWS Certified Cloud Practitioner Short Notes
 
 ## AWS Cloud Practitioner exam
 
