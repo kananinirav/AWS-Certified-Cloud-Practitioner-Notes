@@ -21,6 +21,7 @@
 - [Security & Compliance](sections/security_compliance.md)
 - [Machine Learning](sections/machine_learning.md)
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
+- [Advanced Identity](sections/advanced_identity.md)
 
 ## Contributors
 
