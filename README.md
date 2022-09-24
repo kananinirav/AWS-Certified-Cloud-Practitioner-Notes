@@ -22,6 +22,8 @@
 - [Machine Learning](sections/machine_learning.md)
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
 - [Advanced Identity](sections/advanced_identity.md)
+- [Other AWS Services](sections/other_aws_services.md)
+- [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
 
 ## Contributors
 
