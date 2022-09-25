@@ -120,7 +120,7 @@
 | Can create up to 5 Read Replicas    | Data is only read/written to the main database    |
 | Data is only written to the main DB | Can only have 1 other AZ as failover              |
 
-![Read Replicas Multi-AZ](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/images/read_replicas_multi_AZ.png)
+![Read Replicas Multi-AZ](../images/read_replicas_multi_AZ.png)
 
 ### RDS Deployments: Multi-Region
 
@@ -129,7 +129,7 @@
   - Local performance for global reads
   - Replication cost
 
-![Multi-Region](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/images/multi_region.png)
+![Multi-Region](../images/multi_region.png)
 
 ## Amazon Aurora
 
