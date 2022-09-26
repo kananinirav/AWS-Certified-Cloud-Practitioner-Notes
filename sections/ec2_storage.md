@@ -152,3 +152,7 @@
 - => Automate the creation, maintain, validate and test EC2 AMIs
 - Can be run on a schedule (weekly, whenever packages are updated, etc…)
 - Free service (only pay for the underlying resources)
+
+* * *
+
+[👈 EC2: Virtual Machines](./ec2.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Elastic Load Balancing & Auto Scaling Groups 👉](./elb_asg.md)

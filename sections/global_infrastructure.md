@@ -233,3 +233,7 @@ applications
 - AWS Local Zones
   - Bring AWS resources (compute, database, storage, …) closer to your users
   - Good for latency-sensitive applications
+
+* * *
+
+[👈 Deploying and Managing Infrastructure at Scale](./deploying.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Cloud Integration 👉](./cloud_integration.md)

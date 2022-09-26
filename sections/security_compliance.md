@@ -334,3 +334,7 @@
   - Close your AWS account
   - Change or cancel your AWS Support plan
   - Register as a seller in the Reserved Instance Marketplace
+
+* * *
+
+[👈 VPC](./vpc.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Machine Learning 👉](./machine_learning.md)

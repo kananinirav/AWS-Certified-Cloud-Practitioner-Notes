@@ -289,3 +289,7 @@
 - Glue: Managed ETL (Extract Transform Load) and Data Catalog service
 - Database Migration: DMS
 - Neptune: graph database
+
+* * *
+
+[👈 Amazon S3](./s3.md)(./elb_asg.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other Compute Section 👉](./other_compute.md)

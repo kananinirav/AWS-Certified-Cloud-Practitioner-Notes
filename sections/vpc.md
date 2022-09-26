@@ -111,3 +111,7 @@
 - Site to Site VPN: VPN over public internet between on-premises DC and AWS
 - Direct Connect: direct private connection to AWS
 - Transit Gateway: Connect thousands of VPC and on-premises networks together
+
+* * *
+
+[👈 Cloud Monitoring](./cloud_monitoring.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Security & Compliance 👉](./security_compliance.md)

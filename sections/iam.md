@@ -189,3 +189,7 @@ Example:
 - **AWS SDK:** manage your AWS services using a programming language
 - **Access Keys:** access AWS using the CLI or SDK
 - **Audit:** IAM Credential Reports & IAM Access Advisor
+
+* * *
+
+[👈 What is Cloud Computing?](./cloud_computing.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2: Virtual Machines 👉](./ec2.md)

@@ -168,3 +168,7 @@
   - Containers
 - If you buy through the AWS Marketplace, it goes into your AWS bill
 - You can **sell your own solutions** on the AWS Marketplace
+
+* * *
+
+[👈 Other AWS Services](./other_aws_services.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)

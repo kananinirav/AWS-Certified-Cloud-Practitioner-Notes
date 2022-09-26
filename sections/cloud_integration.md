@@ -76,3 +76,7 @@
   - No message retention
 - Kinesis: real-time data streaming, persistence and analysis
 - Amazon MQ: managed Apache MQ in the cloud (MQTT, AMQP.. protocols)
+
+* * *
+
+[👈 Global Infrastructure](./global_infrastructure.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Cloud Monitoring 👉](./cloud_monitoring.md)
