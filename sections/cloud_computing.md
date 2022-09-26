@@ -186,3 +186,7 @@ If you need to launch a new application, where should you do it?
 
 - CUSTOMER = RESPONSIBILITY FOR THE SECURITY **IN** THE CLOUD
 - AWS = RESPONSIBILITY FOR THE SECURITY **OF** THE CLOUD
+
+* * *
+
+[👈 Index](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[IAM: Identity Access & Management 👉](./iam.md)

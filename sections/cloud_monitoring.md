@@ -213,3 +213,7 @@
 - Service Health Dashboard: status of all AWS services across all regions
 - Personal Health Dashboard: AWS events that impact your infrastructure
 - Amazon CodeGuru: automated code reviews and application performance recommendations
+
+* * *
+
+[👈 Cloud Integration](./cloud_integration.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[VPC 👉](./vpc.md)

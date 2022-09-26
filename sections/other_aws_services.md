@@ -93,3 +93,7 @@
 - Helps you uncover hidden bugs and performance bottlenecks
 - Supports the following AWS services: EC2, ECS, EKS, RDS…
 - Use pre-built templates that generate the desired disruptions
+
+* * *
+
+[👈 Advanced Identity](./advanced_identity.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[AWS Architecting & Ecosystem 👉](./architecting_and_ecosystem.md)

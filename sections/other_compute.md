@@ -190,3 +190,7 @@
 - ECR: Private Docker Images Repository
 - Batch: run batch jobs on AWS across managed EC2 instances
 - Lightsail: predictable & low pricing for simple application & DB stacks
+
+* * *
+
+[👈 Databases & Analytics](./databases.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Deploying and Managing Infrastructure at Scale 👉](./deploying.md)

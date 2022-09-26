@@ -276,3 +276,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 - SSH: start a terminal into our EC2 Instances (port 22)
 - EC2 Instance Role: link to IAM roles
 - Purchasing Options: On-Demand, Spot, Reserved (Standard + Convertible + Scheduled), Dedicated Host, Dedicated Instance
+
+* * *
+
+[👈IAM: Identity Access & Management](./iam.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2 Instance Storage 👉](./ec2_storage.md)

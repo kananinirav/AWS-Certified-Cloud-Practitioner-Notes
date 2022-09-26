@@ -127,3 +127,7 @@
   - Implement Elasticity for your application, across multiple AZ
   - Scale EC2 instances based on the demand on your system, replace unhealthy
   - Integrated with the ELB
+
+* * *
+
+[👈  EC2 Instance Storage](./ec2_storage.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Amazon S3 👉](./s3.md)
