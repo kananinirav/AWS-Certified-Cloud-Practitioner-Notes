@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/cloud_computing.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/iam.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/ec2.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/ec2_storage.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/elb_asg.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/s3.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/databases.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/other_compute.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/deploying.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/global_infrastructure.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/cloud_integration.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/cloud_monitoring.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/vpc.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/security_compliance.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/machine_learning.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/account_management_billing_support.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/advanced_identity.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/other_aws_services.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes/sections/architecting_and_ecosystem.html</loc>
+  <lastmod>2022-09-26T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
