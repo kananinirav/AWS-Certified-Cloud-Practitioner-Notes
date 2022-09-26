@@ -3,5 +3,3 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: 'AWS Cloud Practitioner Short Notes'
 description: 'It will help you with quick revision before the exam.'
 show_downloads: false
-
-google_analytics: 'G-JMDDTT0Y7C'
