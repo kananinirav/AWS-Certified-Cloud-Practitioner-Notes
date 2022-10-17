@@ -292,4 +292,4 @@
 
 * * *
 
-[👈 Amazon S3](./s3.md)(./elb_asg.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other Compute Section 👉](./other_compute.md)
+[👈 Amazon S3](./s3.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Other Compute Section 👉](./other_compute.md)
