@@ -244,4 +244,4 @@
 
 * * *
 
-[👈 Other Compute Section](./other_compute.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Global Infrastructure 👉](./global_infrastructure.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Other Compute Section](./other_compute.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Global Infrastructure <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./global_infrastructure.md)

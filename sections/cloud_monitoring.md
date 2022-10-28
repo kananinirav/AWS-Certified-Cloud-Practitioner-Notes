@@ -216,4 +216,4 @@
 
 * * *
 
-[👈 Cloud Integration](./cloud_integration.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[VPC 👉](./vpc.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Cloud Integration](./cloud_integration.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[VPC <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./vpc.md)

@@ -400,4 +400,4 @@
 
 * * *
 
-[👈 Machine Learning](./machine_learning.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Advanced Identity 👉](./advanced_identity.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Machine Learning](./machine_learning.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Advanced Identity <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./advanced_identity.md)

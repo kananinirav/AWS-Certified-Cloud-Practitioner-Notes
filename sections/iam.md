@@ -192,4 +192,4 @@ Example:
 
 * * *
 
-[👈 What is Cloud Computing?](./cloud_computing.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2: Virtual Machines 👉](./ec2.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> What is Cloud Computing?](./cloud_computing.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2: Virtual Machines <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./ec2.md)

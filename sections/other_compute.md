@@ -193,4 +193,4 @@
 
 * * *
 
-[👈 Databases & Analytics](./databases.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Deploying and Managing Infrastructure at Scale 👉](./deploying.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Databases & Analytics](./databases.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Deploying and Managing Infrastructure at Scale <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./deploying.md)

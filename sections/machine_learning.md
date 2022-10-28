@@ -136,4 +136,4 @@
 
 * * *
 
-[👈 Security & Compliance](./security_compliance.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Account Management, Billing & Support 👉](./account_management_billing_support.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Security & Compliance](./security_compliance.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Account Management, Billing & Support <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./account_management_billing_support.md)

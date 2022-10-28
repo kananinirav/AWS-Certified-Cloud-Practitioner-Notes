@@ -96,4 +96,4 @@
 
 * * *
 
-[👈 Advanced Identity](./advanced_identity.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[AWS Architecting & Ecosystem 👉](./architecting_and_ecosystem.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Advanced Identity](./advanced_identity.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[AWS Architecting & Ecosystem <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./architecting_and_ecosystem.md)

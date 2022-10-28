@@ -189,4 +189,4 @@ If you need to launch a new application, where should you do it?
 
 * * *
 
-[👈 Index](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[IAM: Identity Access & Management 👉](./iam.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Index](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[IAM: Identity Access & Management <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./iam.md)

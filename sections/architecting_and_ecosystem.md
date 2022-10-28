@@ -171,4 +171,4 @@
 
 * * *
 
-[👈 Other AWS Services](./other_aws_services.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](../README.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> Other AWS Services](./other_aws_services.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)
