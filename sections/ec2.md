@@ -279,4 +279,4 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 
 * * *
 
-[<img align="center" src="../images/back-arrow.png" height="20" width="20"/>IAM: Identity Access & Management](./iam.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2 Instance Storage <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./ec2_storage.md)
+[<img align="center" src="../images/back-arrow.png" height="20" width="20"/> IAM: Identity Access & Management](./iam.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[<img align="center" src="../images/list.png" height="30" width="30"/> List](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[EC2 Instance Storage <img align="center" src="../images/forward-arrow.png" height="20" width="20"/>](./ec2_storage.md)
