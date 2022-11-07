@@ -5,102 +5,102 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/</loc>
+  <loc>https://awsccpnotes.kananinirav.com/</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/cloud_computing.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/cloud_computing.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/iam.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/iam.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/ec2.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/ec2.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/ec2_storage.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/ec2_storage.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/elb_asg.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/elb_asg.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/s3.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/s3.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/databases.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/databases.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/other_compute.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/other_compute.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/deploying.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/deploying.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/global_infrastructure.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/global_infrastructure.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/cloud_integration.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/cloud_integration.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/cloud_monitoring.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/cloud_monitoring.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/vpc.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/vpc.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/security_compliance.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/security_compliance.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/machine_learning.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/machine_learning.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/account_management_billing_support.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/account_management_billing_support.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/advanced_identity.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/advanced_identity.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/other_aws_services.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/other_aws_services.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://awsccpnotes.kananinirav.com/sections/architecting_and_ecosystem.html</loc>
+  <loc>https://awsccpnotes.kananinirav.com/sections/architecting_and_ecosystem.html</loc>
   <lastmod>2022-11-07T05:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
