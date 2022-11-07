@@ -5,5 +5,5 @@ description: 'If you are preparing for AWS Cloud Practitioner Exam, this guide w
 show_downloads: false
 
 github:
-  repository_url: 'https://kananinirav.github.io/AWS-Certified-Cloud-Practitioner-Notes'
+  repository_url: '/AWS-Certified-Cloud-Practitioner-Notes/'
   owner_url: "https://nirav-kanani.netlify.app/"
