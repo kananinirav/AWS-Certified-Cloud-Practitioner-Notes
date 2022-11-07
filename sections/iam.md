@@ -4,6 +4,7 @@
   - [What Is IAM?](#what-is-iam)
     - [IAM: Users & Groups](#iam-users--groups)
     - [IAM: Permissions](#iam-permissions)
+    - [IAM Policies Inheritance](#iam-policies-inheritance)
     - [IAM Policies Structure](#iam-policies-structure)
     - [IAM – Password Policy](#iam--password-policy)
     - [IAM Roles for Services](#iam-roles-for-services)
@@ -34,6 +35,10 @@ AWS Identity and Access Management (IAM) is a web service that helps you securel
 - Users or Groups can be assigned JSON documents called policies
 - These policies define the permissions of the users
 - In AWS you apply the least privilege principle: don’t give more permissions than a user needs
+
+### IAM Policies Inheritance
+
+![IAM Policies Inheritance](../images/IAM_Policies_inheritance.png)
 
 ### IAM Policies Structure
 
