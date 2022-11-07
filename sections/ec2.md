@@ -9,9 +9,11 @@
       - [Compute Optimized](#compute-optimized)
       - [Memory Optimized](#memory-optimized)
       - [Storage Optimized](#storage-optimized)
+    - [EC2 Instance Types: example](#ec2-instance-types-example)
   - [Introduction to Security Groups](#introduction-to-security-groups)
-  - [Deeper Dive](#deeper-dive)
-  - [The fundamental of network security in AWS (Good to know)](#the-fundamental-of-network-security-in-aws-good-to-know)
+    - [Deeper Dive](#deeper-dive)
+    - [Security Groups Diagram](#security-groups-diagram)
+    - [Good to know](#good-to-know)
   - [Classic Ports to know](#classic-ports-to-know)
   - [EC2 Instance Launch Types](#ec2-instance-launch-types)
     - [On Demand Instance](#on-demand-instance)
@@ -114,6 +116,18 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   - Data warehousing applications
   - Distributed file systems
 
+### EC2 Instance Types: example
+
+| Instance    | vCPU | Mem (GiB) | Storage          | Network Performance | EBS Bandwidth (Mbps) |
+| ----------- | ---- | --------- | ---------------- | ------------------- | -------------------- |
+| t2.micro    | 1    | 1         | EBS-Only         | Low to Moderate     |
+| t2.xlarge   | 4    | 16        | EBS-Only         | Moderate            |
+| c5d.4xlarge | 16   | 32        | 1 x 400 NVMe SSD | Up to 10 Gbps       | 4,750                |
+| r5.16xlarge | 64   | 512       | EBS Only         | 20 Gbps             | 13,600               |
+| m5.8xlarge  | 32   | 128       | EBS Only         | 10 Gbps             | 6,800                |
+
+t2.micro is part of the AWS free tier (up to 750 hours per month)
+
 ## Introduction to Security Groups
 
 - Security Groups are the fundamental of network security in AWS
@@ -121,7 +135,7 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 - Security groups only contain allow rules
 - Security groups rules can reference by IP or by security group
 
-## Deeper Dive
+### Deeper Dive
 
 - Security groups are acting as a “firewall” on EC2 instances
 - They regulate:
@@ -130,7 +144,11 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
   - Control of inbound network (from other to the instance)
   - Control of outbound network (from the instance to other)
 
-## The fundamental of network security in AWS (Good to know)
+### Security Groups Diagram
+
+![ Security Groups Diagram](../images/Security_Groups_Diagram.png)
+
+### Good to know
 
 - Can be attached to multiple instances
 - Locked down to a region / VPC combination
@@ -138,8 +156,8 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity i
 - It’s good to maintain one separate security group for SSH access
 - If your application is not accessible (time out), then it’s a security group issue
 - If your application gives a “connection refused“ error, then it’s an application error or it’s not launched
-- All inbound traffic is blocked by default
-- All outbound traffic is authorised by default
+- All inbound traffic is **blocked** by default
+- All outbound traffic is **authorized** by default
 
 ## Classic Ports to know
 
