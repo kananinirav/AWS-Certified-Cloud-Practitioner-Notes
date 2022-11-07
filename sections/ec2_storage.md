@@ -47,6 +47,8 @@
   - You get billed for all the provisioned capacity
   - You can increase the capacity of the drive over time
 
+![Elastic File System](../images/EBS.png)
+
 ### EBS – Delete on Termination attribute
 
 - Controls the EBS behaviour when an EC2 instance terminates
@@ -73,8 +75,10 @@
 ## EFS: Elastic File System
 
 - Managed NFS (network file system) that can be mounted on 100s of EC2
-- EFS works with Linux EC2 instances in multi-AZ
+- EFS works with **Linux** EC2 instances in **multi-AZ**
 - Highly available, scalable, expensive (3x gp2), pay per use, no capacity planning
+
+![Elastic File System](../images/EFS.png)
 
 ## EFS Infrequent Access (EFS-IA)
 
