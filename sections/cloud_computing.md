@@ -29,23 +29,13 @@
 
 ### The Deployment Models of the Cloud
 
-**Private Cloud:**
+| **Private Cloud:**                                                       | **Public Cloud:**                                                                                      | **Hybrid Cloud:**                                                       |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Cloud services used by a single organization, not exposed to the public. | Cloud resources owned and operated by a thirdparty cloud service provider delivered over the Internet. | Keep some servers on premises and extend some capabilities to the Cloud |
+| Complete control                                                         | Six Advantages of Cloud Computing                                                                      | Control over sensitive assets in your private infrastructure            |
+| Security for sensitive applications                                      |                                                                                                        | Flexibility and costeffectiveness of the public cloud                   |
+| Meet specific business needs                                             |                                                                                                        |
 
-- Cloud services used by a single organization, not exposed to the public.
-- Complete control
-- Security for sensitive applications
-- Meet specific business needs
-
-**Public Cloud:**
-
-- Cloud resources owned and operated by a thirdparty cloud service provider delivered over the Internet.
-- Six Advantages of Cloud Computing
-
-**Hybrid Cloud:**
-
-- Keep some servers on premises and extend some capabilities to the Cloud
-- Control over sensitive assets in your private infrastructure
-- Flexibility and costeffectiveness of the public cloud
 
 ### The Five Characteristics of Cloud Computing
 
@@ -96,6 +86,8 @@
   - Focus on the deployment and management of your applications
 - **Software as a Service (SaaS)**
   - Completed product that is run and managed by the service provider
+
+![Cloud Models](../images/cloud_models.jpg)
 
 ### Example of Cloud Computing Types
 
@@ -186,6 +178,8 @@ If you need to launch a new application, where should you do it?
 
 - CUSTOMER = RESPONSIBILITY FOR THE SECURITY **IN** THE CLOUD
 - AWS = RESPONSIBILITY FOR THE SECURITY **OF** THE CLOUD
+
+![Shared Responsibility Model](../images/Shared_Responsibility_Model.jpg)
 
 * * *
 
