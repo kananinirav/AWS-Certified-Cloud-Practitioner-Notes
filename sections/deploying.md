@@ -6,6 +6,7 @@
     - [CloudFormation Stack Designer](#cloudformation-stack-designer)
   - [AWS Cloud Development Kit (CDK)](#aws-cloud-development-kit-cdk)
   - [Developer problems on AWS](#developer-problems-on-aws)
+  - [Typical architecture: Web App 3-tier](#typical-architecture-web-app-3-tier)
   - [AWS Elastic Beanstalk Overview](#aws-elastic-beanstalk-overview)
     - [Elastic Beanstalk - Health Monitoring](#elastic-beanstalk---health-monitoring)
   - [AWS CodeDeploy](#aws-codedeploy)
@@ -19,6 +20,7 @@
     - [How Systems Manager works](#how-systems-manager-works)
     - [Systems Manager - SSM Session Manager](#systems-manager---ssm-session-manager)
   - [AWS OpsWorks](#aws-opsworks)
+    - [OpsWorks Architecture](#opsworks-architecture)
   - [Deployment - Summary](#deployment---summary)
   - [Developer Services - Summary](#developer-services---summary)
 
@@ -76,6 +78,10 @@
 - Most web apps have the same architecture (ALB + ASG)
 - All the developers want is for their code to run!
 - Possibly, consistently across different applications and environments
+
+## Typical architecture: Web App 3-tier
+
+![Web App 3-tier](../images/web_architecture.png)
 
 ## AWS Elastic Beanstalk Overview
 
@@ -218,6 +224,10 @@
 - Only provision standard AWS resources:
   - EC2 Instances, Databases, Load Balancers, EBS volumes…
 - **Chef or Puppet needed => AWS OpsWorks**
+
+### OpsWorks Architecture
+
+![OpsWorks Architecture](../images/OpsWorks_Architecture.png)
 
 ## Deployment - Summary
 
