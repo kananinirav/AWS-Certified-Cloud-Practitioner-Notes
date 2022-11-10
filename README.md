@@ -3,6 +3,8 @@
 - This will help you for quick revision before exam.
 - If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
 
+![Web App 3-tier](./images/Cloud-Practitioner.png)
+
 ## Table of contents
 
 - [What is Cloud Computing?](sections/cloud_computing.md)
