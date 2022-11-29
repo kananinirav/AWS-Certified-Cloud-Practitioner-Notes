@@ -47,6 +47,11 @@
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 
+## Upcoming ⏳
+
+- Practice Exam With Answer
+- Exam Guide
+
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
