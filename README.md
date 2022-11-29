@@ -49,7 +49,7 @@
 
 ## Upcoming ⏳
 
-- Practice Exam With Answer
+- Practice Questions With Answer
 - Exam Guide
 
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
