@@ -26,3 +26,5 @@ giscus:
   reaction-enabled:    "1"
   theme:               "light"
   crossorigin:         "anonymous"
+  input-position:      "top"
+  loading:             "lazy"
