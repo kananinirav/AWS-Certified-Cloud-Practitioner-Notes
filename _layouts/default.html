@@ -30,6 +30,21 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      <!-- comment provider -->
+      {% assign giscus = site.giscus %}
+      <script src="https://giscus.app/client.js"
+        data-repo={{ giscus.repo }}
+        data-repo-id={{ giscus.repo-id }}
+        data-category={{ giscus.category }}
+        data-category-id={{ giscus.category-id }}
+        data-mapping={{ giscus.mapping }}
+        data-strict={{ giscus.data-strict }}
+        data-reactions-enabled={{ giscus.reaction-enabled }}
+        data-theme={{ giscus.theme }}
+        crossorigin={{ giscus.crossorigin }}
+        async>
+      </script>
+
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <!-- <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span> -->
