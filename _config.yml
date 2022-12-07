@@ -6,7 +6,7 @@ show_downloads: false
 
 github:
   repository_url: '/index.html'
-  owner_url: "https://kananinirav.com"
+  owner_url: "https://portfolio.kananinirav.com/"
 
 # Set which comment system to use
 comments:
