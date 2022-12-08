@@ -2,13 +2,11 @@
 
 Click on the **Answer** button for the correct answer and its explanation.
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-If this guide has been helpful to you please share it with others and react to this below.
+If this practice exam has been helpful to you please share it with others and react to this below.
 
 ---
 
-1. The use of what AWS feature or service allows companies to track and categorize spending on a detailed leve?
+1. The use of what AWS feature or service allows companies to track and categorize spending on a detailed level?
     - A. Cost allocation tags
     - B. Consolidated billing
     - C. AWS Budgets
@@ -748,5 +746,7 @@ If this guide has been helpful to you please share it with others and react to t
     Correct Answer: AC
 
     </details>
+
+Please feel free to comment below if any information is inaccurate or if any answers need correction.
 
 [<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)
