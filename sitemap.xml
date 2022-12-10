@@ -6,7 +6,7 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://kananinirav.com/</loc>
-  <lastmod>2022-11-20T05:38:55+00:00</lastmod>
+  <lastmod>2022-12-10T05:38:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -117,6 +117,11 @@
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-2.html</loc>
   <lastmod>2022-12-08T05:38:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kananinirav.com/practice-exam/practice-exam-3.html</loc>
+  <lastmod>2022-12-10T10:38:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>
