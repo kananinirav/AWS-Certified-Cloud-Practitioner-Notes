@@ -6,7 +6,7 @@
 
 ![Web App 3-tier](./images/Cloud-Practitioner.png)
 
-Each Section contains a number of units. Below Table Link containing information about each sections in detail.
+Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
 ## Table of contents
 
