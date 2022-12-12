@@ -25,7 +25,6 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 2. Which of the following provides the ability to share the cost benefits of Reserved Instances across AWS accounts?
-
     - A. AWS Cost Explorer between AWS accounts
     - B. Linked accounts and consolidated billing
     - C. Amazon Elastic Compute Cloud (Amazon EC2) Reserved Instance Utilization Report
