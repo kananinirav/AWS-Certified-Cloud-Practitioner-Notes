@@ -10,6 +10,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Table of contents
 
+- [Study Guide](./study-guide.md)
 - [Cloud Computing](sections/cloud_computing.md)
   - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
 - [IAM: Identity Access & Management](sections/iam.md)
@@ -52,10 +53,6 @@ Each Section contains a number of units. **Below Table Link** containing informa
 ## Practice Exams
   
 - [Practice Exam List](practice-exam/exams.md)
-
-## Upcoming ⏳
-
-- Exam Guide
 
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
