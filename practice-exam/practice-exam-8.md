@@ -712,19 +712,19 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1.  Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
+50. Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
     - A. Security
     - B. Operational excellence
     - C. Performance efficiency
     - D. Cost optimization
 
-<details markdown=1><summary markdown="span">Answer</summary>
+    <details markdown=1><summary markdown="span">Answer</summary>
 
-Correct Answer: A
+    Correct Answer: A
 
-Explanation: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
+    Explanation: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
 
-</details>
+    </details>
 
 Please feel free to comment below if any information is inaccurate or if any answers need correction.
 
