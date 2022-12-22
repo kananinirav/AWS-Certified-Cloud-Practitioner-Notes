@@ -18,5 +18,6 @@ If this guide has been helpful to you please share it with others and react to t
 - [Practice Exam - 6](./practice-exam-6.md)
 - [Practice Exam - 7](./practice-exam-7.md)
 - [Practice Exam - 8](./practice-exam-8.md)
+- [Practice Exam - 9](./practice-exam-9.md)
 
 #### We will be adding more practice exam
