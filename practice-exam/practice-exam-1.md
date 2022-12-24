@@ -16,9 +16,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation:
-
-    <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html>
+    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/cost-alloc-tags.html>
 
     </details>
 
@@ -32,9 +30,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/s3/faqs/>
+    Explanation: <https://aws.amazon.com/s3/faqs/>
 
     </details>
 
@@ -48,9 +44,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/professional-services/>
+    Explanation: <https://aws.amazon.com/professional-services/>
 
     </details>
 
@@ -89,9 +83,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: AB
 
-    Explanation:
-
-    <https://aws.amazon.com/sql/>
+    Explanation: <https://aws.amazon.com/sql/>
 
     </details>
 
@@ -117,9 +109,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/ec2/pricing/>
+    Explanation: <https://aws.amazon.com/ec2/pricing/>
 
     </details>
 
@@ -146,9 +136,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/cloudtrail/>
+    Explanation: <https://aws.amazon.com/cloudtrail/>
 
     </details>
 
@@ -177,10 +165,8 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: AE
 
     Explanation:
-
-    <https://aws.amazon.com/cloudwatch/>
-
-    You can also use CloudWatch in hybrid cloud architectures by using the CloudWatch Agent or API to monitor your on-premises resources
+    - <https://aws.amazon.com/cloudwatch/>
+    - You can also use CloudWatch in hybrid cloud architectures by using the CloudWatch Agent or API to monitor your on-premises resources
 
     </details>
 
@@ -194,13 +180,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf>
+    Explanation: <https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf>
 
     </details>
 
-1. A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. <br/>Which service should the company use?
+1. A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. <br/> Which service should the company use?
     - A. Amazon Redshift
     - B. Amazon DynamoDB
     - C. Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store
@@ -222,9 +206,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks>
+    Explanation: <https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks>
 
     </details>
 
@@ -239,9 +221,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: BCD
 
-    Explanation:
-
-    <https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>
+    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>
 
     </details>
 
@@ -253,11 +233,10 @@ If this practice exam has been helpful to you please share it with others and re
     - E. The automatic extension of the master account's AWS support plan to all accounts
 
     <details markdown=1><summary markdown="span">Answer</summary>
+
     Correct Answer: AD
 
-    Explanation:
-
-    <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
+    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
 
     </details>
 
@@ -271,9 +250,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/>
+    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/>
 
     </details>
 
@@ -287,9 +264,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf> (10)
+    Explanation: <https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf> (10)
 
     </details>
 
@@ -315,9 +290,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/>
+    Explanation: <https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/>
 
     </details>
 
@@ -343,9 +316,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/ec2/pricing/reserved-instances/>
+    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/>
 
     </details>
 
@@ -371,9 +342,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/elasticloadbalancing/>
+    Explanation: <https://aws.amazon.com/elasticloadbalancing/>
 
     </details>
 
@@ -387,9 +356,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/soc-faqs/>
+    Explanation: <https://aws.amazon.com/compliance/soc-faqs/>
 
     </details>
 
@@ -404,9 +371,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: BD
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -432,9 +397,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
+    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
 
     </details>
 
@@ -475,9 +438,8 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
-    In the main RDS page though, Lower administrative burden is listed as part of the benefits.
-    <https://aws.amazon.com/rds/>
+    - In the main RDS page though, Lower administrative burden is listed as part of the benefits.
+    - <https://aws.amazon.com/rds/>
 
     </details>
 
@@ -491,9 +453,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation:
-
-    <https://aws.amazon.com/rds/aurora/serverless/>
+    Explanation: <https://aws.amazon.com/rds/aurora/serverless/>
 
     </details>
 
@@ -507,9 +467,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation:
-
-    <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html>
+    Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html>
 
     </details>
 
@@ -523,9 +481,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -575,9 +531,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html>
+    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html>
 
     </details>
 
@@ -591,9 +545,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/dynamodb/>
+    Explanation: <https://aws.amazon.com/dynamodb/>
 
     </details>
 
@@ -607,9 +559,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/>
+    Explanation: <https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/>
 
     </details>
 
@@ -623,9 +573,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/organizations/>
+    Explanation: <https://aws.amazon.com/organizations/>
 
     </details>
 
@@ -639,9 +587,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation:
-
-    <https://aws.amazon.com/solutions/case-studies/encoding/>
+    Explanation: <https://aws.amazon.com/solutions/case-studies/encoding/>
 
     </details>
 
@@ -668,8 +614,7 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
-    Global Reach will support an international company using Cloud-Front.
+    - Global Reach will support an international company using Cloud-Front.
 
     </details>
 
@@ -683,9 +628,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -699,9 +642,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/>
+    Explanation: <https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/>
 
     </details>
 
@@ -728,9 +669,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation:
-
-    <https://aws.amazon.com/getting-started/tutorials/get-a-domain/>
+    Explanation: <https://aws.amazon.com/getting-started/tutorials/get-a-domain/>
 
     </details>
 

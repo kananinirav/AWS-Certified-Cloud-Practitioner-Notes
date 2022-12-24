@@ -61,9 +61,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/spot-instance-interruptions.html>
+    Explanation: <https://docs.aws.amazon.com/whitepapers/latest/cost-optimization-leveraging-ec2-spot-instances/spot-instance-interruptions.html>
 
     </details>
 
@@ -98,9 +96,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/premiumsupport/plans/>
+    Explanation: <https://aws.amazon.com/premiumsupport/plans/>
 
     </details>
 
@@ -146,7 +142,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BD
 
     Explanation:
-
     - CloudFront delivers your content through a worldwide network of data centers called edge locations.
     When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.
 
@@ -165,7 +160,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - To allow users to perform S3 actions on the bucket from the VPC endpoints or IP addresses, you must explicitly grant those user-level permissions.
     - You can grant user-level permissions on either an AWS Identity and Access Management (IAM) policy or another statement in the bucket policy.
 
@@ -182,9 +176,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
+    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
 
     </details>
 
@@ -199,7 +191,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - In EC2, the AWS IaaS offering, everything from the hypervisor layer down is AWS's responsibility.
     - A customer's poorly coded applications, misconfigured operating systems, or insecure firewall settings will not affect the hypervisor, it will only affect the customer's virtual machines running on that hypervisor.
 
@@ -255,7 +246,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - AWS provides a set of fully managed services that you can use to build and run serverless applications.
     - Serverless applications don't require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more.
     - You also no longer need to worry about ensuring application fault tolerance and availability.
@@ -276,7 +266,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - AWS provides a set of fully managed services that you can use to build and run serverless applications.
     - Serverless applications don't require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more. You also no longer need to worry about ensuring application fault tolerance and availability.
     - Instead, AWS handles all of these capabilities for you.
@@ -310,7 +299,7 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BD
 
     Explanation:
-  
+
     - CloudFront delivers your content through a worldwide network of data centers called edge locations.
     - When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.
 
@@ -329,7 +318,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost.
     - Using AWS Auto Scaling, it's easy to setup application scaling for multiple resources across multiple services in minutes. - The service provides a simple, powerful user interface that lets you build scaling plans for resources including Amazon EC2 instances and Spot Fleets, Amazon ECS tasks, Amazon DynamoDB tables and indexes, and Amazon Aurora Replicas.
     - AWS Auto Scaling makes scaling simple with recommendations that allow you to optimize performance, costs, or balance
@@ -352,13 +340,12 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: AD
 
-    Explanation:
-
-    <http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/>
+    Explanation: <http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/>
 
     </details>
 
-21. Which AWS service would you use to obtain compliance reports and certificates?   - A. AWS Artifact
+21. Which AWS service would you use to obtain compliance reports and certificates?
+    - A. AWS Artifact
     - B. AWS Lambda
     - C. Amazon Inspector
     - D. AWS Certificate Manager
@@ -368,7 +355,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - AWS Artifact is your go-to, central resource for compliance-related information that matters to you.
     - It provides on-demand access to AWS' security and compliance reports and select online agreements.
     - Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.
@@ -389,9 +375,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: AC
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -708,9 +692,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: AB
 
-    Explanation:
-
-    <https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>
+    Explanation: <https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>
 
     </details>
 
@@ -745,9 +727,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -762,9 +742,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: CD
 
-    Explanation:
-
-    <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>
+    Explanation: <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>
 
     </details>
 
@@ -800,9 +778,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: AB
 
-    Explanation:
-
-    <https://wa.aws.amazon.com/wat.concept.elasticity.en.html>
+    Explanation: <https://wa.aws.amazon.com/wat.concept.elasticity.en.html>
 
     </details>
 

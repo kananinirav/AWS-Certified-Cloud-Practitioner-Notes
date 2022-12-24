@@ -16,9 +16,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/getting-started/projects/host-static-website/>
+    Explanation: <https://aws.amazon.com/getting-started/projects/host-static-website/>
 
     </details>
 
@@ -32,9 +30,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/ec2/spot/>
+    Explanation: <https://aws.amazon.com/ec2/spot/>
 
     </details>
 
@@ -72,9 +68,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/redshift/>
+    Explanation: <https://aws.amazon.com/redshift/>
 
     </details>
 
@@ -88,9 +82,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-
-    <https://aws.amazon.com/elasticloadbalancing/>
+    Explanation: <https://aws.amazon.com/elasticloadbalancing/>
 
     </details>
 
@@ -131,9 +123,8 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BE
 
     Explanation:
-
-    <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>
-    <https://aws.amazon.com/cloudfront/>
+    - <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>
+    - <https://aws.amazon.com/cloudfront/>
 
     </details>
 
@@ -147,9 +138,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation:
-
-    <https://aws.amazon.com/enterprise/hybrid/>
+    Explanation: <https://aws.amazon.com/enterprise/hybrid/>
 
     </details>
 
@@ -164,9 +153,7 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
-    <https://aws.amazon.com/rds/instance-types/>
-
+    - <https://aws.amazon.com/rds/instance-types/>
     - Amazon RDS provides a selection of instance types optimized to fit different relational database use cases.
     - Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate mix of resources for your database.
     - Each instance type includes several instance sizes, allowing you to scale your database to the requirements of your target workload.
@@ -183,9 +170,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-
-    <https://aws.amazon.com/what-is-cloud-object-storage/>
+    Explanation: <https://aws.amazon.com/what-is-cloud-object-storage/>
 
     </details>
 
@@ -200,7 +185,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - Access keys are long-term credentials for an IAM user or the AWS account root user.
     - You can use access keys to sign programmatic requests to the AWS CLI or API (directly or using the AWS SDK).
     - For more information, see Signing AWS API Requests in the Amazon Web Services General Reference.
@@ -219,7 +203,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BC
 
     Explanation:
-
     - Penetration testing is not correct, because it can be done by customers on their own resources.
 
     </details>
@@ -235,7 +218,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud.
     - It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.
     - It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.
@@ -255,7 +237,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - Amazon Elastic File System (Amazon EFS) provides a simple, scalable, fully managed elastic NFS file system for use with AWS Cloud services and on-premises resources.
     - It is built to scale on demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files, eliminating the need to provision and manage capacity to accommodate growth.
     - Amazon EFS is designed to provide the throughput, IOPS, and low latency needed for Linux workloads.
@@ -275,9 +256,7 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - "Provisioning for peaks" is a characteristic of a traditional computing environment, per the AWS Best Practices: "you provision capacity based on an estimate of a theoretical maximum peak."
-
     - <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
 
     </details>
@@ -293,7 +272,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - Amazon S3 Glacier is a secure, durable, and low-cost storage class of S3 for data archiving and long-term backup. Customers can store large or small amounts of data for as little as $0.004 per gigabyte per month.
     - The S3 Glacier storage class is ideal for archives where data is regularly retrieved and some of the data may be needed in minutes.
     - Amazon RDS is a relational database service that hosts databases. It helps you create and manage databases.
@@ -314,7 +292,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance
     - The Security of the cloud is managed by Amazon AWS provider
     - The Security in the cloud is responsibility of the customer
@@ -337,7 +314,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - AWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.
 
     Reference: <https://aws.amazon.com>
@@ -355,7 +331,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - Developer and IT staff productivity accounted for nearly 30% of overall financial benefits.
     - The remaining benefits were driven by the flexibility and agility of Amazon cloud infrastructure services, which make it easier to trial new business models, support revenue-generating applications, and provide more reliable services to end users.
 
@@ -374,7 +349,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - Use Dedicated Hosts to launch Amazon EC2 instances on physical servers that are dedicated for your use.
     - Dedicated Hosts give you additional visibility and control over how instances are placed on a physical server, and you can reliably use the same physical server over time.
     - As a result, Dedicated Hosts enable you to use your existing server-bound software licenses like Windows Server and address corporate compliance and regulatory requirements.
@@ -392,7 +366,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.
     - CloudFormation allows you to use a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
     - This file serves as the single source of truth for your cloud environment.
@@ -412,7 +385,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
     - Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations.
     - With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines.
@@ -433,7 +405,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - Amazon CloudWatch is basically a metrics repository.
     - An AWS service -- such as Amazon EC2 -- puts metrics into the repository, and you retrieve statistics based on those metrics.
     - If you put your own custom metrics into the repository, you can retrieve statistics on these metrics as well.
@@ -453,7 +424,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - use the consolidated billing feature in AWS Organizations to consolidate billing and payment for multiple AWS accounts or multiple Amazon Internet Services Pvt. Ltd (AISPL) accounts.
     - Every organization in AWS Organizations has a master account that pays the charges of all the member accounts.
     - Consolidated billing has the following benefits:
@@ -476,7 +446,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BC
 
     Explanation:
-
     - <https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html>
     - <https://aws.amazon.com/blogs/aws/opsworks-on-prem-and-existing-instances/>
 
@@ -493,7 +462,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - In the new model, the Spot prices are more predictable, updated less frequently, and are determined by supply and demand for Amazon EC2 spare capacity, not bid prices.
 
     Reference: <https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing/>
@@ -538,7 +506,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - WS Artifact is your go-to, central resource for compliance-related information that matters to you.
     - It provides on-demand access to AWS's security and compliance reports and select online agreements.
     - The AWS SOC 2 report is particularly helpful for completing questionnaires because it provides a comprehensive description of the implementation and operating effectiveness of AWS security controls.
@@ -571,7 +538,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - If you have multiple standalone accounts, your charges might decrease if you add the accounts to an organization.
     - AWS combines usage from all accounts in the organization to qualify you for volume pricing discounts.
 
@@ -590,7 +556,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - AWS customers are welcome to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for 8 services.
 
     Reference: <https://aws.amazon.com/security/penetration-testing/>
@@ -608,7 +573,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - To use Amazon EC2, you simply:
     - Select a pre-configured, templated Amazon Machine Image (AMI) to get up and running immediately. Or create an AMI containing your applications, libraries, data, and associated configuration settings.
     - Configure security and network access on your Amazon EC2 instance.
@@ -631,7 +595,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - Instead of defining permissions for individual IAM users, it's usually more convenient to create groups that relate to job functions (administrators, developers, accounting, etc.).
     - Next, define the relevant permissions for each group. Finally, assign IAM users to those groups. All the users in an IAM group inherit the permissions assigned to the group.
     - That way, you can make changes for everyone in a group in just one place. As people move around in your company, you can
@@ -652,7 +615,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - The Cost & Usage Report is your one-stop-shop for accessing the most granular data about your AWS costs and usage.
     - You can also load your cost and usage information into Amazon Athena, Amazon Redshift, AWS QuickSight, or a tool of your choice.
 
@@ -684,7 +646,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - Loose coupling between services can also be done through asynchronous integration. It involves one component that generates events and another that consumes them.
     - The two components do not integrate through direct point-to-point interaction, but usually through an intermediate durable storage layer.
     - This approach decouples the two components and introduces additional resiliency.
@@ -706,7 +667,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: BE
 
     Explanation:
-
     - If you decided to create service accounts (that is, accounts used for programmatic access by applications running outside of the AWS environment) and generate access keys for them, you should create a dedicated service account for each use case.
     - This will allow you to restrict the associated policy to only the permissions needed for the particular use case, limiting the blast radius if the credentials are compromised.
     - For example, if a monitoring tool and a release management tool both require access to your AWS environment, create two separate service accounts with two separate policies that define the minimum set of permissions for each tool.
@@ -726,7 +686,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - AWS Storage Gateway is a hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage. Customers use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases.
     - These include moving tape backups to the cloud, reducing on-premises storage with cloud-backed file shares, providing low latency access to data in AWS for on- premises applications, as well as various migration, archiving,
     processing, and disaster recovery use cases.
@@ -746,7 +705,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - The customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2.
 
     Reference: <https://www.whizlabs.com/blog/aws-security-shared-responsibility/>
@@ -764,7 +722,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-
     - Data Center resilience is practiced through Availability Zones across data centers that reduce the impact of failures.
     - Fault isolation improvement can be made to traditional horizontal scaling by sharding (a method of grouping instances into groups called shards, instead of sending the traffic from all users to every node like in the traditional IT structure.)
 
@@ -783,7 +740,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: B
 
     Explanation:
-
     - The enterprise support plans supports technical account manager. Developer and business support plans are devoid of this facility.
 
     Reference: <https://aws.amazon.com/premiumsupport/plans/>
@@ -812,7 +768,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: C
 
     Explanation:
-
     - Amazon ElastiCache for Redis is a great choice for implementing a highly available, distributed, and secure in-memory cache to decrease access latency, increase throughput, and ease the load off your relational or NoSQL databases and applications.
     - ElastiCache can serve frequently requested items at sub- millisecond response times, and enables you to easily scale for higher loads without growing the costlier backend databases.
     - Database query results caching, persistent session caching, and full-page caching are all popular examples of caching with ElastiCache for Redis.
@@ -832,7 +787,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: D
 
     Explanation:
-
     - Of course, Amazon is responsible for auditing physical data center assets and resources since it is the property of Amazon Inc. Customers have no access to physical sites, hence they are not responsible for maintaining physical data center assets.
 
     </details>
@@ -849,7 +803,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: CE
 
     Explanation:
-
     - AWS Training and Certification builds your competence, confidence, and credibility through practical cloud skills that help you innovate and build your future.
     - Our content is built by experts at AWS and updated regularly so you're always learning the latest and keeping your cloud skills fresh.
     - Amazon offer both digital and classroom training including private on-site training. You can choose to learn online at your own pace or learn from an accredited AWS instructor.
@@ -871,7 +824,6 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: CD
 
     Explanation:
-
     - Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
     - You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.
     - You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.
