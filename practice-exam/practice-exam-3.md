@@ -167,7 +167,8 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-11. A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?    - A. Think parallel
+11. A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?
+    - A. Think parallel
     - B. Implement elasticity
     - C. Decouple your components
     - D. Design for failure
