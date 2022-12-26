@@ -113,7 +113,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account>- policy.html
+    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html>
 
     </details>
 

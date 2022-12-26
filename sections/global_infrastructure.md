@@ -69,6 +69,9 @@
 
 ### Route 53 - Diagram for A Record
 
+![Route 53](./images/../../images/Route_53.png)
+
+<!-- 
 ```mermaid
 sequenceDiagram
     participant Web browser
@@ -78,7 +81,7 @@ sequenceDiagram
     Route 53 ->> Web browser: Send back IP:11.12.13.1(A record: hostname or IP)
     Web browser->>Application Server(IP=11.12.13.1): HTTP Request IP:11.12.13.1 (Host:app.domain.com)
     Application Server(IP=11.12.13.1) ->> Web browser: HTTP Response
-```
+``` -->
 
 ## Route 53 Routing Policies
 
