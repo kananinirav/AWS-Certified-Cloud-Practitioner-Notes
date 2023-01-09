@@ -1,6 +1,6 @@
 # Practice Exam
 
-## Free Practice Questions with answers
+## Free AWS Cloud Practitioner Practice Questions with answers
 
 Are you prepared? Utilize these free practice questions to assess your understanding. Test your knowledge with these free practice questions which will help you before the exam. Simply go through the below tests. you can see sample questions with the correct answers and detailed explanations or reference links.
 
