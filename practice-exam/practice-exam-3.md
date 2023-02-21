@@ -286,6 +286,19 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
+    Explanation:
+
+    - Shared Controls Controls which apply to both the infrastructure layer and customer layers, but in completely separate contexts or perspectives.
+    - In a shared control, AWS provides the requirements for the infrastructure and the customer must provide their own control implementation within their use of AWS services.
+    - Examples include:
+    - Patch Management AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications.
+    - Configuration Management AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.
+    - Awareness & Training AWS trains AWS employees, but a customer must train their own employees.
+    - Customer Specific Controls which are solely the responsibility of the customer based on the application they are deploying within AWS services.
+    - Service and Communications Protection or Zone Security which may require a customer to route or zone data within specific security environments.
+
+    Reference: <https://aws.amazon.com/compliance/shared-responsibility-model/>
+
     </details>
 
 18. What can AWS edge locations be used for? (Select TWO.)
@@ -417,28 +430,15 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-26. Under the shared responsibility model, which of the following is a shared control between a customer and AWS?
-    - A. Physical controls
-    - B. Patch management
-    - C. Zone security
-    - D. Data center auditing
+26. Which of the following is entirely the responsibility of AWS, according to the AWS shared responsibility model?
+    - A. Patching of the guest operating system
+    - B. Security awareness and training
+    - C. Physical and environmental controls
+    - D. Development of an IAM password policy
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation:
-
-    - Shared Controls Controls which apply to both the infrastructure layer and customer layers, but in completely separate contexts or perspectives.
-    - In a shared control, AWS provides the requirements for the infrastructure and the customer must provide their own control implementation within their use of AWS services.
-    - Examples include:
-    - Patch Management AWS is responsible for patching and fixing flaws within the infrastructure, but customers are responsible for patching their guest OS and applications.
-    - Configuration Management AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.
-    - Awareness & Training AWS trains AWS employees, but a customer must train their own employees.
-    - Customer Specific Controls which are solely the responsibility of the customer based on the application they are deploying within AWS services.
-    - Service and Communications Protection or Zone Security which may require a customer to route or zone data within specific security environments.
-
-    Reference: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
