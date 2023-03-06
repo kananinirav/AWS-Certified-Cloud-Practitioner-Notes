@@ -5,8 +5,9 @@ description: 'If you are preparing for AWS Cloud Practitioner Exam, this guide w
 show_downloads: false
 
 github:
-  repository_url: '/index.html'
+  repository_url: '/'
   owner_url: "https://portfolio.kananinirav.com/"
+  all_certification: 'https://certification.kananinirav.com/'
 
 # Set which comment system to use
 comments:
