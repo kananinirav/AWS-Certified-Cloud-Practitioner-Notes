@@ -4,8 +4,6 @@
 - If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
 - **Android Application Link: [AWS-Certified-Cloud-Practitioner-Notes](https://play.google.com/store/apps/details?id=com.awsshortnotes)**
 
-![Web App 3-tier](./images/Cloud-Practitioner.png)
-
 Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
 ## Table of contents
