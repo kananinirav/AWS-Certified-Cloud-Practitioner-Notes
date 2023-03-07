@@ -164,8 +164,9 @@ If this practice exam has been helpful to you please share it with others and re
 
 12. A company has an application with users in both Australia and Brazil. All the company infrastructure is currently provisioned in the Asia Pacific (Sydney) Region in Australia, and Brazilian users are experiencing high latency. <br/> What should the company do to reduce latency?
     - A. Implement AWS Direct Connect for users in Brazil
-    - B. Use AWS Transit Gateway to quickly route users from Brazil to the application
-    - C. Launch additional Amazon EC2 instances in Sydney to handle the demand
+    - B. Provision resources in the South America (São Paulo) Region in Brazil.
+    - C. Use AWS Transit Gateway to quickly route users from Brazil to the application
+    - D. Launch additional Amazon EC2 instances in Sydney to handle the demand
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
@@ -183,9 +184,12 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: B
 
-    Explanation: <https://jayendrapatil.com/aws-ec2-instance-purchasing-option/>
+    Explanation:
+    - Spot instances are a good purchasing option when an EC2 instance runs only when needed yet must remain active for the duration of the process.
+    - Spot instances provide significant savings (up to 90%) over On-Demand Instances because they allow you to bid on unused EC2 instances, which can be much cheaper than other options.
+    - <https://jayendrapatil.com/aws-ec2-instance-purchasing-option/>
 
     </details>
 
@@ -295,7 +299,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: C
 
     Explanation: <https://aws.amazon.com/s3/storage-classes/>
 
