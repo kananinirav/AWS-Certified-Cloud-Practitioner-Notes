@@ -254,7 +254,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: C
 
     Explanation: <https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf>
 
@@ -457,7 +457,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: A
+
+    Explanation: < https://docs.aws.amazon.com/awssupport/latest/user/case-management.html>
 
     </details>
 
