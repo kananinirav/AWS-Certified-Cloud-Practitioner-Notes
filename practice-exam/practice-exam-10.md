@@ -270,7 +270,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: C
 
     </details>
 
@@ -306,7 +306,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: D
 
     Explanation: <https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/>
 
@@ -320,7 +320,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: A
 
     Explanation: <https://aws.amazon.com/blogs/storage/migrating-hundreds-of-tb-of-data-to-amazon-s3-with-aws-datasync/>
 
@@ -349,7 +349,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: AB
 
     </details>
 
@@ -361,7 +361,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: A
 
     Explanation: <https://docs.aws.amazon.com/AmazonS3/latest/dev/walkthrough1.html>
 
@@ -584,11 +584,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
-
-    Explanation:
-    - On-demand instances are useful for running stateful workloads without making a long-term commitment, but if your workloads are stateless or can tolerate shorter run cycles, there's a more cost-effective instance type called a Spot Instance.
-    - <https://www.gremlin.com/blog/implementing-cost-saving-strategies-on-amazon-ec-2-with-chaos-engineering/>
+    Correct Answer: B
 
     </details>
 
@@ -600,14 +596,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
-
-    Explanation: <https://aws.amazon.com/ec2/spot/details/>
+    Correct Answer: A
 
     </details>
 
 47. Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
-
     - A. Providing high-performance container orchestration
     - B. Creating and rotating encryption keys
     - C. Detecting underutilized resources to save costs
@@ -616,7 +609,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: CD
 
     Explanation: <https://aws.amazon.com/about-aws/whats-new/2016/06/aws-support-enables-tagging-capabilities-for-trusted-advisor/>
 
