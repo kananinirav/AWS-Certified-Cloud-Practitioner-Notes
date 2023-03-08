@@ -184,12 +184,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
-
-    Explanation:
-    - Spot instances are a good purchasing option when an EC2 instance runs only when needed yet must remain active for the duration of the process.
-    - Spot instances provide significant savings (up to 90%) over On-Demand Instances because they allow you to bid on unused EC2 instances, which can be much cheaper than other options.
-    - <https://jayendrapatil.com/aws-ec2-instance-purchasing-option/>
+    Correct Answer: C
 
     </details>
 
