@@ -6,6 +6,7 @@ show_downloads: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 github:
   repository_url: '/'
