@@ -5,8 +5,8 @@ description: 'If you are preparing for AWS Cloud Practitioner Exam, this guide w
 show_downloads: false
 
 plugins:
-  - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 github:
   repository_url: '/'
