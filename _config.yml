@@ -4,10 +4,6 @@ title: 'AWS Cloud Practitioner Study Notes'
 description: 'If you are preparing for AWS Cloud Practitioner Exam, this guide will help you with quick revision before the exam. I share the notes I used to study and pass exam.'
 show_downloads: false
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-last-modified-at
-
 github:
   repository_url: '/'
   owner_url: "https://portfolio.kananinirav.com/"
@@ -33,17 +29,3 @@ giscus:
   crossorigin:         "anonymous"
   input-position:      "top"
   loading:             "lazy"
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      sitemap: true
-defaults:
-  -
-    scope:
-      path: "README.md"
-    values:
-      sitemap:
-        priority: 1.00
