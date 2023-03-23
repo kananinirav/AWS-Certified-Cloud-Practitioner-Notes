@@ -2,4 +2,9 @@ source 'https://rubygems.org'
 
 gem 'webrick'
 # Run Google Page in local using "bundle exec jekyll s "
-gem "github-pages", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem 'github-pages'
+  gem 'jekyll-last-modified-at'
+  gem 'jekyll-sitemap'
+end

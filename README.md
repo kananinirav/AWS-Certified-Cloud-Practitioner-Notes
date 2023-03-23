@@ -54,5 +54,11 @@ Each Section contains a number of units. **Below Table Link** containing informa
   
 - [Practice Exam List](practice-exam/exams.md)
 
+## Other AWS And Azure Certification Notes
+
+- [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
+- [AWS Solutions Architect - Associate (SAA-C03)](https://certification.kananinirav.com/aws-solutions-architect-associate/)
+- [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
+
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

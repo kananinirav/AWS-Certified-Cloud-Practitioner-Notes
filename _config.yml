@@ -29,3 +29,17 @@ giscus:
   crossorigin:         "anonymous"
   input-position:      "top"
   loading:             "lazy"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      sitemap: true
+defaults:
+  -
+    scope:
+      path: "README.md"
+    values:
+      sitemap:
+        priority: 1.00
