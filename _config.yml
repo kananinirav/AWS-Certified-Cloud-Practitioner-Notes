@@ -29,3 +29,9 @@ giscus:
   crossorigin:         "anonymous"
   input-position:      "top"
   loading:             "lazy"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/AWS-Cloud-Practitioner.png
