@@ -71,13 +71,10 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: A
 
     Explanation:
-    - Use AWS Local Zones to deploy workloads closer to your end-users for low-latency requirements.
-    - AWS Local Zones have their own connection to the internet and support AWS Direct Connect, so resources created in the Local Zone can serve local end-users with very low-latency communications.
-
-    Reference: <https://aws.amazon.com/about-aws/global-infrastructure/localzones/faqs/>
+    - Amazon CloudFront is a content delivery network (CDN) service that distributes data from multiple locations worldwide, providing low-latency access to end-users.
 
     </details>
 
