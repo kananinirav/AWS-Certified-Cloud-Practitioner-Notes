@@ -332,7 +332,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. 🥲Which of the following services will automatically scale with an expected increase in web traffic?
+1. Which of the following services will automatically scale with an expected increase in web traffic?
     - A. AWS CodePipeline
     - B. Elastic Load Balancing
     - C. Amazon EBS
