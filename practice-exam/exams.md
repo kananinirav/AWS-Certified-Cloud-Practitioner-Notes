@@ -21,5 +21,21 @@ If this guide has been helpful to you please share it with others and react to t
 - [Practice Exam - 9](./practice-exam-9.md)
 - [Practice Exam - 10](./practice-exam-10.md)
 - [Practice Exam - 11](./practice-exam-11.md)
+- [Practice Exam - 12](./practice-exam-12.md)
+- [Practice Exam - 13](./practice-exam-13.md)
+- [Practice Exam - 14](./practice-exam-14.md)
+- [Practice Exam - 15](./practice-exam-15.md)
+- [Practice Exam - 16](./practice-exam-16.md)
+- [Practice Exam - 17](./practice-exam-17.md)
+- [Practice Exam - 18](./practice-exam-18.md)
+- [Practice Exam - 19](./practice-exam-19.md)
+- [Practice Exam - 20](./practice-exam-20.md)
+- [Practice Exam - 21](./practice-exam-21.md)
+- [Practice Exam - 22](./practice-exam-22.md)
+- [Practice Exam - 23](./practice-exam-23.md)
 
-#### We will be adding more practice exam
+#### Credits
+
+I have referred to the GitHub directory [“AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers”](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers) for the questions for first 12 tests.
+
+The directory contains a collection of questions and answers related to the AWS Cloud Practitioner (CLF-C01) exam. I would like to give credit to the author of this repository for creating such a helpful resource.
