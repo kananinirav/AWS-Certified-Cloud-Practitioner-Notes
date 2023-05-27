@@ -72,7 +72,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. Which AWS services can host a Microsoft SQL Server database? (Select TWO)
+1. 🥲Which AWS services can host a Microsoft SQL Server database? (Select TWO)
     - A. Amazon EC2
     - B. Amazon Relational Database Service (Amazon RDS)
     - C. Amazon Aurora
