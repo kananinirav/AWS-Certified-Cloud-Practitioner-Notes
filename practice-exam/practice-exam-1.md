@@ -509,7 +509,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
+1. 🥲What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
     - A. Amazon S3
     - B. Amazon Glacier
     - C. Amazon EBS
