@@ -184,7 +184,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. <br/> Which service should the company use?
+1. 🥲A company is considering using AWS for a self-hosted database that requires a nightly shutdown for maintenance and cost-saving purposes. <br/> Which service should the company use?
     - A. Amazon Redshift
     - B. Amazon DynamoDB
     - C. Amazon Elastic Compute Cloud (Amazon EC2) with Amazon EC2 instance store
