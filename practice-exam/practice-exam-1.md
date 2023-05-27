@@ -20,7 +20,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+1. <span style="color:red">Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?</span>
     - A. Amazon Glacier
     - B. AWS Storage Gateway
     - C. Amazon S3
