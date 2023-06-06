@@ -157,7 +157,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. A NoSQL database service.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 16. What is the AWS service that performs automated network assessments of Amazon EC2 instances to check for vulnerabilities?
