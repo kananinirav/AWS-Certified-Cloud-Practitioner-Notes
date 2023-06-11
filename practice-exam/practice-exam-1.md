@@ -233,7 +233,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 23. Which of the following does NOT belong to the AWS Cloud Computing models?
     - A. Platform as a Service (PaaS).
-    - B. Infrastructure as a Service (1aaS).
+    - B. Infrastructure as a Service (IaaS).
     - C. Software as a Service (SaaS).
     - D. Networking as a Service (NaaS).
 
