@@ -106,7 +106,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS CloudFormation.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 11. What are the benefits of using an AWS-managed service? (Choose TWO)
@@ -355,7 +355,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon EC2 Instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 35. What is the framework created by AWS Professional Services that helps organizations design a road map to successful cloud adoption?
@@ -449,7 +449,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Consolidated Billing.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 44. When running a workload in AWS, the customer is NOT responsible for: (Select TWO)
