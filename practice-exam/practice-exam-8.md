@@ -437,7 +437,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon EC2.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 43. Which of the following steps should be taken by a customer when conducting penetration testing on AWS?
