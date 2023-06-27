@@ -44,7 +44,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Refresh data changes daily.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: B
     </details>
 
 5. Which of the following are valid ways for a customer to interact with AWS services? (Select TWO)
@@ -65,7 +65,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS manages user applications in the AWS Cloud.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: B
     </details>
 
 7. A company is migrating an application that is running non-interruptible workloads for a three-year time frame. Which pricing construct would provide the MOST cost-effective solution?
@@ -116,7 +116,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. AWS takes care of application security patching.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C, E
+      Correct answer: C, D
     </details>
 
 12. Which of the following services falls under the responsibility of the customer to maintain operating system configuration, security patching, and networking?
@@ -188,7 +188,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: B, D
     </details>
 
 19. A Cloud Practitioner must determine if any security groups in an AW account have been provisioned to allow unrestricted access for specific ports What is the SIMPLEST way to do this?
@@ -436,38 +436,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
-    </details>
-
-43. Which type of mirroring does SPAN technology perform?
-    - A. Remote mirroring over Layer 2.
-    - B. Remote mirroring over Layer 3.
-    - C. Local mirroring over Layer 2.
-    - D. Local mirroring over Layer 3.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-    </details>
-
-44. Your customer wants to grant restricted proxy rights to their HR Department to act on behalf of employees belonging to their legal entity. How can you perform this requirement? There are 2 correct answers to this question.
-    - A. Use the Manage Permission Roles tool to grant proxy rights to the HR Department.
-    - B. Fill the PROXY column of the Basic Import template to match the requirements and import the file using the Import Employee Data tool.
-    - C. Use the Proxy Management tool to configure the requested proxy assignments.
-    - D. Fill the Basic Import template with the requested proxy configuration and import the file using the Import and Export Data tool.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
-    </details>
-
-45. Which two statements about configuring a traffic monitoring session are true? (Choose two)
-    - A. You can set a local VM as a traffic destination.
-    - B. You can have up to two active monitoring sessions simultaneously.
-    - C. An unlimited number of monitoring session can be stored.
-    - D. A newly created monitoring session is enabled by default.
-    - E. A destination port can also be a source port within the same session.
-    - F. A vHBA can be a source for either an Ethernet or Fibre Channel monitoring session, but not both.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, F
     </details>
 
 Please feel free to comment below if any information is inaccurate or if any answers need correction.
