@@ -396,7 +396,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Using AWS allows companies to replace large capital expenditure with low variable costs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C, E
     </details>
 
 39. What are the benefits of using DynamoDB? (Choose TWO)
