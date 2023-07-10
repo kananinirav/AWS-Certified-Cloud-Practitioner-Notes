@@ -59,7 +59,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 6. You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
     - A. The Reserved Instance discounts can only be shared with the master account.
-    - B. All accounts can receive the hourly cost benefit of the Reserved Instances (Comect).
+    - B. All accounts can receive the hourly cost benefit of the Reserved Instances.
     - C. The purchased instances will have better performance than On-demand instances.
     - D. There are no cost benefits from using consolidated billing; It is for informational purposes only.
 
@@ -70,7 +70,7 @@ If this practice exam has been helpful to you please share it with others and re
 7. A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
     - A. Deploy the application across multiple Availability Zones and Edge locations.
     - B. Deploy the application across multiple Availability Zones and subnets.
-    - C. Deploy the application across multiple Regions and Availability Zones (Co ).
+    - C. Deploy the application across multiple Regions and Availability Zones.
     - D. Deploy the application across multiple VPC’s and subnets.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
