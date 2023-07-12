@@ -335,7 +335,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon EC2 offers scalable computing.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 33. What is the AWS Compute service that executes code only when triggered by events?
