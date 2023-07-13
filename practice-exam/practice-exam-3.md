@@ -330,7 +330,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. By creating an AWS Config template from the old instance and launching a new instance from it.
     - B. By creating an EBS Snapshot of the old instance.
     - C. By installing Aurora on EC2 and launching a new instance from it.
-    - D. By creating an AMI from the old instance and (Correct) launching a new instance from it.
+    - D. By creating an AMI from the old instance and launching a new instance from it.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D

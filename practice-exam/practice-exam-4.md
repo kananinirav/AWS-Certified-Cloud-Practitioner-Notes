@@ -434,7 +434,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 42. AWS recommends some practices to help organizations avoid unexpected charges on their bill. Which of the following is NOT one of these practices?
     - A. Deleting unused EBS volumes after terminating an EC2instance.
-    - B. Deleting unused AutoScaling launch (Correct) configuration.
+    - B. Deleting unused AutoScaling launch configuration.
     - C. Deleting unused Elastic Load Balancers.
     - D. Releasing unused Elastic IPs after terminating an EC2instance.
 

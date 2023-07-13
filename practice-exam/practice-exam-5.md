@@ -132,7 +132,7 @@ If this practice exam has been helpful to you please share it with others and re
 13. A company is seeking to better secure its AWS account from unauthorized access. Which of the below options can the customer use to achieve this goal?
     - A. Restrict any API call made through SDKs or CLI.
     - B. Create one IAM account for each department in the company (Development, QA, Production), and share it across all staff in that department.
-    - C. Require Multi-Factor Authentication (MFA) (Correct) for all IAM User access.
+    - C. Require Multi-Factor Authentication (MFA) for all IAM User access.
     - D. Set up two login passwords.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
