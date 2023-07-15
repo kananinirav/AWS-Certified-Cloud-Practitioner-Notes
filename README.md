@@ -15,7 +15,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
   - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
 - [IAM: Identity Access & Management](sections/iam.md)
   - What Is IAM?, Multi Factor Authentication - MFA, MFA devices options in AWS, How can users access AWS ?, What’s the AWS CLI?, What’s the AWS SDK?
-- [EC2: Virtual Machines](sections/ec2.md) 
+- [EC2: Virtual Machines](sections/ec2.md)
   - What is Amazon EC2?, Introduction to Security Groups, Classic Ports to know, EC2 Instance Launch Types, Which purchasing option is right for me?, Shared Responsibility Model for EC2
 - [EC2 Instance Storage](sections/ec2_storage.md)
   - EBS Volumes, EFS: Elastic File System, EFS Infrequent Access (EFS-IA), Amazon FSx – Overview, EC2 Instance Store, Shared Responsibility Model for EC2 Storage
@@ -51,8 +51,13 @@ Each Section contains a number of units. **Below Table Link** containing informa
   - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 
 ## Practice Exams
-  
+
 - [Practice Exam List](practice-exam/exams.md)
+
+## Buy AWS Cloud Practitioner Study Notes Ebook
+
+![Ebook_Cover](./images/Ebook_Cover.png)
+[Buy Now](https://www.buymeacoffee.com/kananinirav/e/151079)
 
 ## Other AWS And Azure Certification Notes
 
