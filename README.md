@@ -52,12 +52,14 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Practice Exams
 
-- [Practice Exam List](practice-exam/exams.md)
+- **[Practice Exam List](practice-exam/exams.md)**
 
 ## Buy AWS Cloud Practitioner Study Notes Ebook
 
 ![Ebook_Cover](./images/Ebook_Cover.png)
-[Buy Now](https://www.buymeacoffee.com/kananinirav/e/151079)
+
+**[Sample](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Now](https://www.buymeacoffee.com/kananinirav/e/151079)**
 
 ## Other AWS And Azure Certification Notes
 
