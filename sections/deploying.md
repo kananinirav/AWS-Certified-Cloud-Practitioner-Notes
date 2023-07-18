@@ -69,6 +69,40 @@
   - Great for Lambda functions
   - Great for Docker containers in ECS / EKS
 
+### Example of AWS CDK (Python)
+
+To use AWS CDK, you need to install the CDK CLI and initialize a new CDK project. Once you have set up your project, you can start defining your cloud infrastructure using the programming language of your choice. Then, you can deploy the infrastructure to your AWS account using the CDK CLI.
+
+In below example, we define an AWS CDK stack that creates an S3 bucket with versioning enabled. To run this code, you'll need to have the AWS CDK for Python (`aws-cdk-lib`) installed in your Python environment. You can install it using pip:
+
+```python
+pip install aws-cdk-lib
+```
+
+Once you have the dependencies installed, you can execute this Python script, and it will create the S3 bucket in your AWS account based on the code defined in the `MyS3BucketStack` class.
+
+```python
+from aws_cdk import core
+from aws_cdk import aws_s3 as s3
+
+class MyS3BucketStack(core.Stack):
+    def __init__(self, scope: core.Construct, id: str, **kwargs) -> None:
+        super().__init__(scope, id, **kwargs)
+
+        # Define an S3 bucket
+        s3.Bucket(
+            self,
+            'MyS3Bucket',
+            versioned=True,
+            removal_policy=core.RemovalPolicy.DESTROY
+        )
+
+# App entry point
+app = core.App()
+MyS3BucketStack(app, 'MyS3BucketStack')
+app.synth()
+```
+
 ## Developer problems on AWS
 
 - Managing infrastructure
@@ -116,6 +150,20 @@
   - Single Container Docker
   - Multi-Container Docker
   - Preconfigured Docker
+
+- If not supported, you can write your custom platform.
+
+### Elastic Beanstalk vs CloudFormation
+
+AWS Elastic Beanstalk uses AWS CloudFormation underneath for managing the infrastructure and resources required to run your application. Then, what's the difference between them?
+
+***Beanstalk is centered around code and environments for your code***
+
+AWS Elastic Beanstalk is a Platform as a Service (PaaS) offering that focuses on simplifying the deployment and management of applications. It is centered around your application code and provides a managed environment for running that code. With Elastic Beanstalk, you provide your application code, and it takes care of provisioning the necessary infrastructure, such as servers, load balancers, and auto-scaling, to host and run your application. For that, Elastic Beanstalk leverages AWS CloudFormation to create and manage these resources.
+
+***CloudFormation is used to deploy stacks arbitrarily with any kind of infrastructure***
+
+AWS CloudFormation, on the other hand, is an Infrastructure as Code (IaC) service. It allows you to define and provision AWS infrastructure resources using templates written in JSON or YAML. CloudFormation is not limited to deploying applications but can be used to manage any type of AWS resource or infrastructure. It provides a way to define entire stacks of resources, including EC2 instances, RDS databases, S3 buckets, IAM roles, etc., in a declarative and version-controlled manner.
 
 ### Elastic Beanstalk - Health Monitoring
 
