@@ -69,6 +69,40 @@
   - Great for Lambda functions
   - Great for Docker containers in ECS / EKS
 
+### Example of AWS CDK (Python)
+
+To use AWS CDK, you need to install the CDK CLI and initialize a new CDK project. Once you have set up your project, you can start defining your cloud infrastructure using the programming language of your choice. Then, you can deploy the infrastructure to your AWS account using the CDK CLI.
+
+In below example, we define an AWS CDK stack that creates an S3 bucket with versioning enabled. To run this code, you'll need to have the AWS CDK for Python (`aws-cdk-lib`) installed in your Python environment. You can install it using pip:
+
+```python
+pip install aws-cdk-lib
+```
+
+Once you have the dependencies installed, you can execute this Python script, and it will create the S3 bucket in your AWS account based on the code defined in the `MyS3BucketStack` class.
+
+```python
+from aws_cdk import core
+from aws_cdk import aws_s3 as s3
+
+class MyS3BucketStack(core.Stack):
+    def __init__(self, scope: core.Construct, id: str, **kwargs) -> None:
+        super().__init__(scope, id, **kwargs)
+
+        # Define an S3 bucket
+        s3.Bucket(
+            self,
+            'MyS3Bucket',
+            versioned=True,
+            removal_policy=core.RemovalPolicy.DESTROY
+        )
+
+# App entry point
+app = core.App()
+MyS3BucketStack(app, 'MyS3BucketStack')
+app.synth()
+```
+
 ## Developer problems on AWS
 
 - Managing infrastructure
@@ -116,6 +150,22 @@
   - Single Container Docker
   - Multi-Container Docker
   - Preconfigured Docker
+
+- If not supported, you can write your custom platform.
+
+### Elastic Beanstalk vs CloudFormation
+
+AWS Elastic Beanstalk uses AWS CloudFormation underneath for managing the infrastructure and resources required to run your application. Then, what's the difference between them?
+
+| Parameters | AWS CloudFormation | AWS Elastic Beanstalk |
+| -- | -- | -- |
+| Purpose | Infrastructure as Code | Platform as a Service |
+| Deployment | Define and manage AWS infrastructure | Simplified application deployment and scaling |
+| Control | High control and flexibility over underlying resources | Simplified management of underlying resources |
+| Management | Manages entire stack of resources | Abstracts infrastructure management |
+| Granularity | Fine-grained control over individual | Limited configuration of underlying resources |
+| Configuration | Uses JSON or YAML	templates | Prescriptive configuration and environment setup |
+| Use Cases	| Complex architectures	and multi-service	| Web application deployment and scaling |
 
 ### Elastic Beanstalk - Health Monitoring
 
