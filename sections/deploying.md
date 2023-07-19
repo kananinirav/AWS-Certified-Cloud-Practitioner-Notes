@@ -157,13 +157,15 @@ app.synth()
 
 AWS Elastic Beanstalk uses AWS CloudFormation underneath for managing the infrastructure and resources required to run your application. Then, what's the difference between them?
 
-***Beanstalk is centered around code and environments for your code***
-
-AWS Elastic Beanstalk is a Platform as a Service (PaaS) offering that focuses on simplifying the deployment and management of applications. It is centered around your application code and provides a managed environment for running that code. With Elastic Beanstalk, you provide your application code, and it takes care of provisioning the necessary infrastructure, such as servers, load balancers, and auto-scaling, to host and run your application. For that, Elastic Beanstalk leverages AWS CloudFormation to create and manage these resources.
-
-***CloudFormation is used to deploy stacks arbitrarily with any kind of infrastructure***
-
-AWS CloudFormation, on the other hand, is an Infrastructure as Code (IaC) service. It allows you to define and provision AWS infrastructure resources using templates written in JSON or YAML. CloudFormation is not limited to deploying applications but can be used to manage any type of AWS resource or infrastructure. It provides a way to define entire stacks of resources, including EC2 instances, RDS databases, S3 buckets, IAM roles, etc., in a declarative and version-controlled manner.
+| Parameters | AWS CloudFormation | AWS Elastic Beanstalk |
+| -- | -- | -- |
+| Purpose | Infrastructure as Code | Platform as a Service |
+| Deployment | Define and manage AWS infrastructure | Simplified application deployment and scaling |
+| Control | High control and flexibility over underlying resources | Simplified management of underlying resources |
+| Management | Manages entire stack of resources | Abstracts infrastructure management |
+| Granularity | Fine-grained control over individual | Limited configuration of underlying resources |
+| Configuration | Uses JSON or YAML	templates | Prescriptive configuration and environment setup |
+| Use Cases	| Complex architectures	and multi-service	| Web application deployment and scaling |
 
 ### Elastic Beanstalk - Health Monitoring
 
