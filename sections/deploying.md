@@ -5,9 +5,11 @@
     - [Benefits of AWS CloudFormation](#benefits-of-aws-cloudformation)
     - [CloudFormation Stack Designer](#cloudformation-stack-designer)
   - [AWS Cloud Development Kit (CDK)](#aws-cloud-development-kit-cdk)
+    - [Example of AWS CDK (Python)](#example-of-aws-cdk-python)
   - [Developer problems on AWS](#developer-problems-on-aws)
   - [Typical architecture: Web App 3-tier](#typical-architecture-web-app-3-tier)
   - [AWS Elastic Beanstalk Overview](#aws-elastic-beanstalk-overview)
+    - [Elastic Beanstalk vs CloudFormation](#elastic-beanstalk-vs-cloudformation)
     - [Elastic Beanstalk - Health Monitoring](#elastic-beanstalk---health-monitoring)
   - [AWS CodeDeploy](#aws-codedeploy)
   - [AWS CodeCommit](#aws-codecommit)
@@ -150,22 +152,21 @@ app.synth()
   - Single Container Docker
   - Multi-Container Docker
   - Preconfigured Docker
-
 - If not supported, you can write your custom platform.
 
 ### Elastic Beanstalk vs CloudFormation
 
 AWS Elastic Beanstalk uses AWS CloudFormation underneath for managing the infrastructure and resources required to run your application. Then, what's the difference between them?
 
-| Parameters | AWS CloudFormation | AWS Elastic Beanstalk |
-| -- | -- | -- |
-| Purpose | Infrastructure as Code | Platform as a Service |
-| Deployment | Define and manage AWS infrastructure | Simplified application deployment and scaling |
-| Control | High control and flexibility over underlying resources | Simplified management of underlying resources |
-| Management | Manages entire stack of resources | Abstracts infrastructure management |
-| Granularity | Fine-grained control over individual | Limited configuration of underlying resources |
-| Configuration | Uses JSON or YAML	templates | Prescriptive configuration and environment setup |
-| Use Cases	| Complex architectures	and multi-service	| Web application deployment and scaling |
+| Parameters    | AWS CloudFormation                                     | AWS Elastic Beanstalk                            |
+| ------------- | ------------------------------------------------------ | ------------------------------------------------ |
+| Purpose       | Infrastructure as Code                                 | Platform as a Service                            |
+| Deployment    | Define and manage AWS infrastructure                   | Simplified application deployment and scaling    |
+| Control       | High control and flexibility over underlying resources | Simplified management of underlying resources    |
+| Management    | Manages entire stack of resources                      | Abstracts infrastructure management              |
+| Granularity   | Fine-grained control over individual                   | Limited configuration of underlying resources    |
+| Configuration | Uses JSON or YAML templates                            | Prescriptive configuration and environment setup |
+| Use Cases     | Complex architectures and multi-service                | Web application deployment and scaling           |
 
 ### Elastic Beanstalk - Health Monitoring
 
