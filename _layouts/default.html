@@ -31,6 +31,11 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      {% if page.link %}
+        <p> <strong>Download Ebook :</strong> &nbsp; &nbsp;
+        <strong><a href="https://www.buymeacoffee.com/kananinirav/e/151079" target="blank">AWS Cloud Practitioner Study Notes (Ebook)</a></strong> </p>
+      {% endif %}
+
       <!-- comment provider -->
       {% assign giscus = site.giscus %}
       <script src="https://giscus.app/client.js"

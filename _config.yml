@@ -35,3 +35,7 @@ defaults:
       path: ""
     values:
       image: /images/AWS-Cloud-Practitioner.png
+  - scope:
+      path: "/sections/*.md"
+    values:
+      link: true
