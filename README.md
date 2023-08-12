@@ -61,6 +61,8 @@ Each Section contains a number of units. **Below Table Link** containing informa
 **[Sample](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
 **[Buy Now](https://www.buymeacoffee.com/kananinirav/e/151079)**
 
+Purchase an ebook on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://www.amazon.com/dp/B0CFGQX5DP)**
+
 ## Other AWS And Azure Certification Notes
 
 - [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
