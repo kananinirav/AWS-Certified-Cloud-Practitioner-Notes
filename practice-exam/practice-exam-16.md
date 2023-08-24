@@ -156,7 +156,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: BD
 
     Explanation:
     - Tags are key-value pairs that allow you to organize your AWS resources into groups. You can use tags to:
