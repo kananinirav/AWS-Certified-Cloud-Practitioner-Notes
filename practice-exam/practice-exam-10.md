@@ -85,7 +85,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Shield.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: B
     </details>
 
 9. Which of the following BEST describe the AWS pricing model? (Select TWO)
