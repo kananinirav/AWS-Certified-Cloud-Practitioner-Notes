@@ -63,6 +63,8 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 Purchase an ebook on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://www.amazon.com/dp/B0CFGQX5DP)**
 
+Purchase an ebook on **Google Play Book**: [AWS Cloud Practitioner Study Notes ebook](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
+
 ## Other AWS And Azure Certification Notes
 
 - [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
