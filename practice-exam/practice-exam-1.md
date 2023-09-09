@@ -223,7 +223,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 22. What does the "Principle of Least Privilege" refer to?
     - A. You should grant your users only the permissions they need when they need them and nothing more.
-    - B. AllIAM users should have at least the necessary permissions to access the core AWS services.
+    - B. All IAM users should have at least the necessary permissions to access the core AWS services.
     - C. All trusted IAM users should have access to any AWS service in the respective AWS account.
     - D. IAM users should not be granted any permissions; to keep your account safe.
 
