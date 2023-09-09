@@ -55,7 +55,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-5. Which AWS service or feature allows the user to manager cross-region application traffic?
+5. Which AWS service or feature allows the user to manage cross-region application traffic?
     - A. Amazon AppStream 2.0
     - B. Amazon VPC
     - C. Elastic Load Balancer
