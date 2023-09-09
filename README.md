@@ -73,9 +73,3 @@ Purchase an ebook on **Google Play Book**: [AWS Cloud Practitioner Study Notes e
 
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## Contributors 🚀
-
-<a href="https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kananinirav/AWS-Certified-Cloud-Practitioner-Notes" />
-</a>
