@@ -1,4 +1,4 @@
-# Mind Map to outlining essential topics
+# Mind Map to outline essential topics
 
 <style>
 * {
