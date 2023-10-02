@@ -1,3 +1,5 @@
+# Mind Map to outlining essential topics
+
 <style>
 * {
   margin: 0;
@@ -10,8 +12,6 @@
 }
 </style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.15.4/dist/style.css">
-
-<h1> Mind Map to outlining essential topics for AWS Cloud Practitioner certification</h1>
 
 <p>Below is a <b>Mind Map outlining essential topics for AWS Cloud Practitioner certification</b>. Start your review from the main node, and <b>each sub-node includes a link to a detailed explanation for further information.</b> To learn more about each topic in depth, simply click on the corresponding link within the mind map. You have the option to zoom in and out within the mind map for a closer or wider view.</p>
 
