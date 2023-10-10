@@ -34,8 +34,10 @@ If this guide has been helpful to you please share it with others and react to t
 - [Practice Exam - 22](./practice-exam-22.md)
 - [Practice Exam - 23](./practice-exam-23.md)
 
-#### Credits
+## Buy AWS Cloud Practitioner Study Notes And Practice Exams Ebook
 
-I have referred to the GitHub directory [“AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers”](https://github.com/Ditectrev/AWS-Cloud-Practitioner-CLF-C01-Exam-Questions-Answers) for the questions for first 12 tests.
+![Ebook_Cover](../images/Ebook_Cover.png)
 
-The directory contains a collection of questions and answers related to the AWS Cloud Practitioner (CLF-C01) exam. I would like to give credit to the author of this repository for creating such a helpful resource.
+**[Sample](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
+**[Buy Study Notes](https://www.buymeacoffee.com/kananinirav/e/151079)**
