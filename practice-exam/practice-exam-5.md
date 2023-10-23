@@ -371,7 +371,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS CloudTrail.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: B
     </details>
 
 37. A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
@@ -442,7 +442,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Running EC2 instances in parallel.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 44. A company is planning to use Amazon S3 and Amazon CloudFront to distribute its video courses globally. What tool can the company use to estimate the costs of these services?

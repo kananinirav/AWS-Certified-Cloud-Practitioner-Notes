@@ -229,7 +229,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon CloudWatch.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 23. Which statement best describes the concept of an AWS region?
@@ -281,7 +281,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Controls that the customer and AWS collaborate together upon to secure the infrastructure.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: D
     </details>
 
 28. Which design principles relate to performance efficiency in AWS? (Choose TWO)
