@@ -28,6 +28,7 @@
   - [Amazon Detective](#amazon-detective)
   - [AWS Abuse](#aws-abuse)
   - [Root user privileges](#root-user-privileges)
+  - [IAM Access Analyzer](#iam-access-analyzer)
   - [Summary](#summary)
 
 ## AWS Shared Responsibility Model
@@ -311,6 +312,21 @@
   - Configure an Amazon S3 bucket to enable MFA
   - Edit or delete an Amazon S3 bucket policy that includes an invalid VPC ID or VPC endpoint ID
   - Sign up for GovCloud
+
+## IAM Access Analyzer
+
+- AWS IAM Access Analyzer is a tool that scans your AWS resource policies to find any unintended public or cross-account access. It helps you identify and fix security issues, ensuring that only authorized entities have access to your resources.
+- Find out which resources are shared externally:
+  - S3 Buckets
+  - IAM Roles
+  - KMS Keys
+  - Lambda Functions and Layers
+  - SQS queues
+  - Secrets Manager Secrets
+- Define Zone of Trust = AWS Account or AWS Organization.
+- Access outside zone of trusts => findings
+
+<img src="../images/IAM_Access_Analyzer.png" height="350" width="300">
 
 ## Summary
 
