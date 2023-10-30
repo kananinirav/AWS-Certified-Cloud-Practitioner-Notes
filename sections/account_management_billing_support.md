@@ -434,6 +434,8 @@ and/or continuous cost increases (you don't need to define thresholds)
 - **Billing Alarms**: in us-east-1 – track overall and per-service billing
 - **Budgets**: more advanced – track usage, costs, RI, and get alerts
 - **Savings Plans**: easy way to save based on long-term usage of AWS
+- **Cost Anomaly Detection**: detect unusual spends using Machine Learning
+- **Service Quotas**: notify you when you're close to service quota threshold
 
 * * *
 
