@@ -7,6 +7,7 @@
   - [AWS Organization - Consolidated Billing](#aws-organization---consolidated-billing)
   - [AWS Control Tower](#aws-control-tower)
   - [AWS Resource Access Manager (AWS RAM)](#aws-resource-access-manager-aws-ram)
+  - [AWS Service Catalog](#aws-service-catalog)
   - [Pricing Models in AWS](#pricing-models-in-aws)
   - [Compute Pricing](#compute-pricing)
     - [EC2](#ec2)
@@ -94,6 +95,15 @@
 - Share with any account or within your Organization
 - Avoid resource duplication!
 - Supported resources include Aurora, VPC Subnets, Transit Gateway, Route 53, EC2 Dedicated Hosts, License Manager Configurations.
+
+## AWS Service Catalog
+
+- Users that are new to AWS have too many options, and may create stacks that are not compliant or in line with the rest of the organization
+- Some users just want a quick self-service portal to launch a set of authorized products pre-defined by admins
+- Includes: virtual machines, databases, storage options, etc…
+- Enter AWS Service Catalog!
+
+<img src="../images/service_catalog.png" height="230" width="350">
 
 ## Pricing Models in AWS
 

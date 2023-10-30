@@ -43,7 +43,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [Machine Learning](sections/machine_learning.md)
   - Amazon Rekognition, Amazon Transcribe, Amazon Polly, Amazon Translate, Amazon Lex & Connect, Amazon Comprehend, Amazon SageMaker, Amazon Forecast, Amazon Kendra, Amazon Personalize, Amazon Textract
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
-  - AWS Organizations, Multi Account Strategies, Service Control Policies (SCP), AWS Organization - Consolidated Billing, AWS Control Tower, AWS Resource Access Manager (AWS RAM), Pricing Models in AWS, Compute Pricing, Storage Pricing, Database Pricing - RDS, Content Delivery - CloudFront, Networking Costs in AWS per GB - Simplified
+  - AWS Organizations, Multi Account Strategies, Service Control Policies (SCP), AWS Organization - Consolidated Billing, AWS Control Tower, AWS Resource Access Manager (AWS RAM), AWS Service Catalog, Pricing Models in AWS, Compute Pricing, Storage Pricing, Database Pricing - RDS, Content Delivery - CloudFront, Networking Costs in AWS per GB - Simplified
 - [Advanced Identity](sections/advanced_identity.md)
   - AWS STS (SecurityToken Service), Amazon Cognito (simplified), What is Microsoft Active Directory (AD)?, AWS Single Sign-On (SSO)
 - [Other AWS Services](sections/other_aws_services.md)
