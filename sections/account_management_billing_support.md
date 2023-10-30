@@ -28,6 +28,7 @@
   - [Cost Explorer](#cost-explorer)
   - [Billing Alarms in CloudWatch](#billing-alarms-in-cloudwatch)
   - [AWS Budgets](#aws-budgets)
+  - [AWS Cost Anomaly Detection](#aws-cost-anomaly-detection)
   - [Trusted Advisor](#trusted-advisor)
   - [Trusted Advisor - Support Plans](#trusted-advisor---support-plans)
   - [AWS Basic Support Plan](#aws-basic-support-plan)
@@ -319,6 +320,15 @@
 - Can filter by: Service, Linked Account, Tag, Purchase Option, Instance Type, Region, Availability Zone, API Operation, etc…
 - Same options as AWS Cost Explorer!
 - 2 budgets are free, then $0.02/day/budget
+
+## AWS Cost Anomaly Detection
+
+- Continuously monitor your cost and usage using ML to detect unusual spends
+- It learns your unique, historic spend patterns to detect one-time cost spike
+and/or continuous cost increases (you don't need to define thresholds)
+- Monitor AWS services, member accounts, cost allocation tags, or cost categories
+- Sends you the anomaly detection report with root-cause analysis
+- Get notified with individual alerts or daily/weekly summary (using SNS)
 
 ## Trusted Advisor
 
