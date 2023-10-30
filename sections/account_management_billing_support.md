@@ -29,6 +29,7 @@
   - [Billing Alarms in CloudWatch](#billing-alarms-in-cloudwatch)
   - [AWS Budgets](#aws-budgets)
   - [AWS Cost Anomaly Detection](#aws-cost-anomaly-detection)
+  - [AWS Service Quotas](#aws-service-quotas)
   - [Trusted Advisor](#trusted-advisor)
   - [Trusted Advisor - Support Plans](#trusted-advisor---support-plans)
   - [AWS Basic Support Plan](#aws-basic-support-plan)
@@ -329,6 +330,14 @@ and/or continuous cost increases (you don't need to define thresholds)
 - Monitor AWS services, member accounts, cost allocation tags, or cost categories
 - Sends you the anomaly detection report with root-cause analysis
 - Get notified with individual alerts or daily/weekly summary (using SNS)
+
+## AWS Service Quotas
+
+- Notify you when you're close to a service quota value threshold
+- Create CloudWatch Alarms on the Service Quotas console
+- Example: Lambda concurrent executions
+- Request a quota increase from AWS Service Quotas or shutdown resources before limit is reached
+
 
 ## Trusted Advisor
 
