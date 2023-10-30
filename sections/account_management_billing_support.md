@@ -6,6 +6,7 @@
   - [Service Control Policies (SCP)](#service-control-policies-scp)
   - [AWS Organization - Consolidated Billing](#aws-organization---consolidated-billing)
   - [AWS Control Tower](#aws-control-tower)
+  - [AWS Resource Access Manager (AWS RAM)](#aws-resource-access-manager-aws-ram)
   - [Pricing Models in AWS](#pricing-models-in-aws)
   - [Compute Pricing](#compute-pricing)
     - [EC2](#ec2)
@@ -86,6 +87,13 @@
   - Monitor compliance through an interactive dashboard
 - AWS Control Tower runs on top of AWS Organizations:
   - It automatically sets up AWS Organizations to organize accounts and implement SCPs (Service Control Policies)
+
+## AWS Resource Access Manager (AWS RAM)
+
+- Share AWS resources that you own with other AWS accounts
+- Share with any account or within your Organization
+- Avoid resource duplication!
+- Supported resources include Aurora, VPC Subnets, Transit Gateway, Route 53, EC2 Dedicated Hosts, License Manager Configurations.
 
 ## Pricing Models in AWS
 
