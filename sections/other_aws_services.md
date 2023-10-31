@@ -7,6 +7,7 @@
   - [AWS IoT Core](#aws-iot-core)
   - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
   - [AWS AppSync](#aws-appsync)
+  - [AWS Amplify](#aws-amplify)
   - [AWS Device Farm](#aws-device-farm)
   - [AWS Backup](#aws-backup)
   - [AWS Elastic Disaster Recovery (DRS)](#aws-elastic-disaster-recovery-drs)
@@ -68,6 +69,25 @@
 - Offline data synchronization (replaces Cognito Sync)
 - Fine Grained Security
 - AWS Amplify can leverage AWS AppSync in the background!
+
+## AWS Amplify
+
+- A set of tools and services that helps you develop and deploy scalable full stack web and mobile applications
+
+- It offers following features:
+  - Backend-as-a-Service (BaaS)
+  - Frontend Libraries and UI Components
+  - Authentication
+  - Storage
+  - API Management (REST, GraphQL)
+  - Real-Time and Offline Capabilities through AWS AppSync
+  - CI/CD
+  - Command-Line Interface (CLI)
+  - PubSub
+  - Analytics
+  - AI/ML Predictions
+  - Monitoring
+  - Source Code from AWS, GitHub, etc.
 
 ## AWS Device Farm
 
