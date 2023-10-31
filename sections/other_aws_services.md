@@ -17,6 +17,7 @@
   - [AWS Migration Evaluator](#aws-migration-evaluator)
   - [AWS Migration Hub](#aws-migration-hub)
   - [AWS Fault Injection Simulator (FIS)](#aws-fault-injection-simulator-fis)
+  - [AWS Step Functions](#aws-step-functions)
 
 ## Amazon WorkSpaces
 
@@ -165,6 +166,16 @@ and Database Migration Service (DMS)
 - Helps you uncover hidden bugs and performance bottlenecks
 - Supports the following AWS services: EC2, ECS, EKS, RDS…
 - Use pre-built templates that generate the desired disruptions
+
+## AWS Step Functions
+
+- Build serverless visual workflow to orchestrate your Lambda functions
+- Features: sequence, parallel, conditions, timeouts, error handling, etc.
+- Can integrate with EC2, ECS, On-premises servers, API Gateway, SQS queues, etc.
+- Possibility of implementing human approval feature
+- Use cases: order fulfillment, data processing, web applications, any workflow
+
+<img src="../images/step_functions.png" height="300" width="300">
 
 * * *
 
