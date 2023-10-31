@@ -18,6 +18,7 @@
   - [AWS Migration Hub](#aws-migration-hub)
   - [AWS Fault Injection Simulator (FIS)](#aws-fault-injection-simulator-fis)
   - [AWS Step Functions](#aws-step-functions)
+  - [AWS Ground Station](#aws-ground-station)
 
 ## Amazon WorkSpaces
 
@@ -176,6 +177,14 @@ and Database Migration Service (DMS)
 - Use cases: order fulfillment, data processing, web applications, any workflow
 
 <img src="../images/step_functions.png" height="300" width="300">
+
+## AWS Ground Station
+
+- Fully managed service that lets you control satellite communications, process data, and scale your satellite operations
+- Provides a global network of satellite ground stations near AWS regions
+- Allows you to download satellite data to your AWS VPC within seconds
+- Send satellite data to S3 or EC2 instance
+- Use cases: weather forecasting, surface imaging, communications, video broadcasts
 
 * * *
 
