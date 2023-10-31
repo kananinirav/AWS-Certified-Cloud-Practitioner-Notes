@@ -169,7 +169,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-17. What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
+17. What do you gain from setting up consolidated billing for five different AWS accounts?
     - A. AWS services’ costs will be reduced to half the original price.
     - B. The consolidated billing feature is just for organizational purpose.
     - C. Each AWS account gets volume discounts.
