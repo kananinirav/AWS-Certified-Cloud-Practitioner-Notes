@@ -47,7 +47,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [Advanced Identity](sections/advanced_identity.md)
   - AWS STS (SecurityToken Service), Amazon Cognito (simplified), What is Microsoft Active Directory (AD)?, AWS Single Sign-On (SSO)
 - [Other AWS Services](sections/other_aws_services.md)
-  - Amazon WorkSpaces, Amazon AppStream 2.0, Amazon Sumerian, AWS IoT Core, Amazon Elastic Transcoder, AWS Device Farm, AWS Backup, AWS Elastic Disaster Recovery (DRS), AWS DataSync, AWS Fault Injection Simulator (FIS)
+  - Amazon WorkSpaces, Amazon AppStream 2.0, Amazon Sumerian, AWS IoT Core, Amazon Elastic Transcoder, AWS AppSync, AWS Device Farm, AWS Backup, AWS Elastic Disaster Recovery (DRS), AWS DataSync, AWS Fault Injection Simulator (FIS)
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 

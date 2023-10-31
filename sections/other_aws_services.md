@@ -6,6 +6,7 @@
   - [Amazon Sumerian](#amazon-sumerian)
   - [AWS IoT Core](#aws-iot-core)
   - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
+  - [AWS AppSync](#aws-appsync)
   - [AWS Device Farm](#aws-device-farm)
   - [AWS Backup](#aws-backup)
   - [AWS Elastic Disaster Recovery (DRS)](#aws-elastic-disaster-recovery-drs)
@@ -56,6 +57,17 @@
   - Highly scalable – can handle large volumes of media files and large file sizes
   - Cost effective – duration-based pricing model
   - Fully managed & secure, pay for what you use
+
+## AWS AppSync
+
+- Store and sync data across mobile and web apps in real-time
+- Makes use of GraphOL (mobile technology from Facebook)
+- Client Code can be generated automatically
+- Integrations with DynamoDB / Lambda
+- Real-time subscriptions
+- Offline data synchronization (replaces Cognito Sync)
+- Fine Grained Security
+- AWS Amplify can leverage AWS AppSync in the background!
 
 ## AWS Device Farm
 
