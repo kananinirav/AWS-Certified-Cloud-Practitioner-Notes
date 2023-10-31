@@ -6,6 +6,8 @@
   - [Service Control Policies (SCP)](#service-control-policies-scp)
   - [AWS Organization - Consolidated Billing](#aws-organization---consolidated-billing)
   - [AWS Control Tower](#aws-control-tower)
+  - [AWS Resource Access Manager (AWS RAM)](#aws-resource-access-manager-aws-ram)
+  - [AWS Service Catalog](#aws-service-catalog)
   - [Pricing Models in AWS](#pricing-models-in-aws)
   - [Compute Pricing](#compute-pricing)
     - [EC2](#ec2)
@@ -26,6 +28,8 @@
   - [Cost Explorer](#cost-explorer)
   - [Billing Alarms in CloudWatch](#billing-alarms-in-cloudwatch)
   - [AWS Budgets](#aws-budgets)
+  - [AWS Cost Anomaly Detection](#aws-cost-anomaly-detection)
+  - [AWS Service Quotas](#aws-service-quotas)
   - [Trusted Advisor](#trusted-advisor)
   - [Trusted Advisor - Support Plans](#trusted-advisor---support-plans)
   - [AWS Basic Support Plan](#aws-basic-support-plan)
@@ -86,6 +90,22 @@
   - Monitor compliance through an interactive dashboard
 - AWS Control Tower runs on top of AWS Organizations:
   - It automatically sets up AWS Organizations to organize accounts and implement SCPs (Service Control Policies)
+
+## AWS Resource Access Manager (AWS RAM)
+
+- Share AWS resources that you own with other AWS accounts
+- Share with any account or within your Organization
+- Avoid resource duplication!
+- Supported resources include Aurora, VPC Subnets, Transit Gateway, Route 53, EC2 Dedicated Hosts, License Manager Configurations.
+
+## AWS Service Catalog
+
+- Users that are new to AWS have too many options, and may create stacks that are not compliant or in line with the rest of the organization
+- Some users just want a quick self-service portal to launch a set of authorized products pre-defined by admins
+- Includes: virtual machines, databases, storage options, etc…
+- Enter AWS Service Catalog!
+
+<img src="../images/service_catalog.png" height="230" width="350">
 
 ## Pricing Models in AWS
 
@@ -302,6 +322,23 @@
 - Same options as AWS Cost Explorer!
 - 2 budgets are free, then $0.02/day/budget
 
+## AWS Cost Anomaly Detection
+
+- Continuously monitor your cost and usage using ML to detect unusual spends
+- It learns your unique, historic spend patterns to detect one-time cost spike
+and/or continuous cost increases (you don't need to define thresholds)
+- Monitor AWS services, member accounts, cost allocation tags, or cost categories
+- Sends you the anomaly detection report with root-cause analysis
+- Get notified with individual alerts or daily/weekly summary (using SNS)
+
+## AWS Service Quotas
+
+- Notify you when you're close to a service quota value threshold
+- Create CloudWatch Alarms on the Service Quotas console
+- Example: Lambda concurrent executions
+- Request a quota increase from AWS Service Quotas or shutdown resources before limit is reached
+
+
 ## Trusted Advisor
 
 - No need to install anything – high level AWS account assessment
@@ -397,6 +434,8 @@
 - **Billing Alarms**: in us-east-1 – track overall and per-service billing
 - **Budgets**: more advanced – track usage, costs, RI, and get alerts
 - **Savings Plans**: easy way to save based on long-term usage of AWS
+- **Cost Anomaly Detection**: detect unusual spends using Machine Learning
+- **Service Quotas**: notify you when you're close to service quota threshold
 
 * * *
 
