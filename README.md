@@ -39,7 +39,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [VPC](sections/vpc.md)
   - VPC & Subnets Primer, Internet Gateway & NAT Gateways, Network ACL & Security Groups, VPC Flow Logs, VPC Peering, VPC Endpoints, Site to Site VPN & Direct Connect, Transit Gateway
 - [Security & Compliance](sections/security_compliance.md)
-  - AWS Shared Responsibility Model, DDOS Protection on AWS, AWS Shield, AWS WAF - Web Application Firewall, AWS KMS (Key Management Service), CloudHSM, AWS Certificate Manager (ACM), AWS Secrets Manager, AWS Artifact (not really a service), Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Macie, AWS Security Hub, Amazon Detective, AWS Abuse, Root user privileges
+  - AWS Shared Responsibility Model, DDOS Protection on AWS, AWS Shield, AWS WAF - Web Application Firewall, AWS KMS (Key Management Service), CloudHSM, AWS Certificate Manager (ACM), AWS Secrets Manager, AWS Artifact (not really a service), Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Macie, AWS Security Hub, Amazon Detective, AWS Abuse, Root user privileges, IAM Access Analyzer
 - [Machine Learning](sections/machine_learning.md)
   - Amazon Rekognition, Amazon Transcribe, Amazon Polly, Amazon Translate, Amazon Lex & Connect, Amazon Comprehend, Amazon SageMaker, Amazon Forecast, Amazon Kendra, Amazon Personalize, Amazon Textract
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
