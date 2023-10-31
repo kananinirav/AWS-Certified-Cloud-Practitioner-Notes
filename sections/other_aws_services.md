@@ -12,6 +12,10 @@
   - [AWS Backup](#aws-backup)
   - [AWS Elastic Disaster Recovery (DRS)](#aws-elastic-disaster-recovery-drs)
   - [AWS DataSync](#aws-datasync)
+  - [AWS Application Discovery Service](#aws-application-discovery-service)
+  - [AWS Application Migration Service (MGN)](#aws-application-migration-service-mgn)
+  - [AWS Migration Evaluator](#aws-migration-evaluator)
+  - [AWS Migration Hub](#aws-migration-hub)
   - [AWS Fault Injection Simulator (FIS)](#aws-fault-injection-simulator-fis)
 
 ## Amazon WorkSpaces
@@ -117,6 +121,42 @@
 - Can synchronize to: Amazon S3 (any storage classes – including Glacier), Amazon EFS, Amazon FSx for Windows
 - Replication tasks can be scheduled hourly, daily, weekly
 - The replication tasks are incremental after the first full load
+
+## AWS Application Discovery Service
+
+- Plan migration projects by gathering information about on-premises data centers
+- Server utilization data and dependency mapping are important for migrations
+- Agentless Discovery (AWS Agentless Discovery Connector)
+  - VM inventory, configuration, and performance history such as CPU, memory, and disk usage
+- Agent-based Discovery (AWS Application Discovery Agent)
+  - System configuration, system performance, running processes, and details of the network connections between systems
+- Resulting data can be viewed within AWS Migration Hub
+
+## AWS Application Migration Service (MGN)
+
+- *The “AWS evolution” of CloudEndure Migration, replacing AWS Server Migration Service (SMS)*
+- Lift-and-shift (rehost) solution which simplify migrating applications to AWS
+- Converts your physical, virtual, and cloud-based servers to run natively on AWS
+- Supports wide range of platforms, Operating Systems, and databases
+- Minimal downtime, reduced costs
+
+## AWS Migration Evaluator
+
+- Helps you build a data-driven business case for migration to AWS
+- Provides a clear baseline of what your organization is running today
+- Install Agentless Collector to conduct broad-based discovery
+- Take a snapshot of on-premises foot-print, server dependencies,...
+- Analyze current state, define target state, then develop migration plan
+
+## AWS Migration Hub
+
+- Central location to collect servers and applications inventory data for the
+assessment, planning, and tracking of migrations to AWS
+- Helps accelerate your migration to AWS, automate lift-and-shift
+- **AWS Migration Hub Orchestrator** - provides pre-built templates to save time and
+effort migrating enterprise apps (e.g., SAP Microsoft SQL Server...)
+- Supports migrations status updates from Application Migration Service (MGN)
+and Database Migration Service (DMS)
 
 ## AWS Fault Injection Simulator (FIS)
 
