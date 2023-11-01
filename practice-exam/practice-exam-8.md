@@ -447,7 +447,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Request and wait for approval from AWS support, and then conduct testing.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 44. Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?

@@ -14,7 +14,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. AWS Data Pipeline.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: A, B
     </details>
 
 2. Which of the following AWS services scale automatically without your intervention? (Choose TWO)
@@ -66,7 +66,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon VPC.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 7. A company plans to migrate a large amount of archived data to AWS. The archived data must be maintained for a period of 5 years and must be retrievable within 5 hours of a request. What is the most cost-effective AWS storage service to use?

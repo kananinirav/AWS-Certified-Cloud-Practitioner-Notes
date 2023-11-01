@@ -208,7 +208,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. RDS Multi-AZ.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 21. You are using several on-demand EC2 Instances to run your development environment. What is the best way to reduce your charges when these instances are not in use?

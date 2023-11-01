@@ -45,7 +45,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon Aurora.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 5. A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?
@@ -292,7 +292,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Amazon CloudWatch.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, E
+      Correct answer: C, E
     </details>
 
 29. Which of the following are characteristics of Amazon S3? (Select TWO)
@@ -424,7 +424,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Implementing controls to route application traffic.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: D
     </details>
 
 42. Which AWS support plan includes a dedicated Technical Account Manager?

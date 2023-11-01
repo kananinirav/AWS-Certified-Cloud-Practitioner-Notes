@@ -323,7 +323,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Number of private IPs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, B
     </details>
 
 32. A customer spent a lot of time configuring a newly deployed Amazon EC2 instance. After the workload increases, the customer decides to provision another EC2 instance with an identical configuration. How can the customer achieve this?

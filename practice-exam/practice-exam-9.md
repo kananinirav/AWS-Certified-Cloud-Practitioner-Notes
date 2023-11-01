@@ -63,7 +63,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon Direct Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: D
     </details>
 
 7. Which AWS service of feature can be used to monitor CPU usage?
@@ -124,7 +124,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. High availability.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C, D
+      Correct answer: B, C
     </details>
 
 13. Which AWS service identifies security groups that allow unrestricted access to a user’s AWS resources?
@@ -185,7 +185,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Encryption.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: C
     </details>
 
 19. Which of the following is a benefit of using the AWS Cloud?
@@ -247,7 +247,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon GuickStght.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: A
     </details>
 
 25. How do customers benefit from Amazon’s massive economies of scale?
@@ -257,7 +257,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Increased reliability in the underlying hardware of Amazon EC2 instances.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
 26. Which AWS feature allows a company to take advantage of usage tiers for services across multiple member accounts?
@@ -278,7 +278,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. AWS Direct Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: C, E
     </details>
 
 28. Which of the following services will automatically scale with an expected increase in web traffic?
@@ -319,7 +319,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Network ACLs.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct answer: A, E
     </details>
 
 32. Which of the following is a cloud architectural design principle?
@@ -357,10 +357,10 @@ If this practice exam has been helpful to you please share it with others and re
     - B. Increased capital expenditure (capex).
     - C. Reduced operational expenditure ( opex ).
     - D. Deferred payment plans for startups.
-    - E. Business credit lines for stratups.
+    - E. Business credit lines for startups.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: A, C
     </details>
 
 36. Which AWS service can serve a static website?
@@ -392,7 +392,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Amazon Machine Images (AMIS).
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, E
+      Correct answer: B, D
     </details>
 
 39. What is the AWS customer responsible for according to the AWS shared responsibility model?
@@ -422,7 +422,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Software development.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: C
     </details>
 
 42. What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?
