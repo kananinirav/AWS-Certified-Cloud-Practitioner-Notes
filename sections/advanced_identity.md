@@ -5,7 +5,7 @@
   - [Amazon Cognito (simplified)](#amazon-cognito-simplified)
   - [What is Microsoft Active Directory (AD)?](#what-is-microsoft-active-directory-ad)
     - [AWS Directory Services](#aws-directory-services)
-  - [AWS Single Sign-On (SSO)](#aws-single-sign-on-sso)
+  - [AWS IAM Identity Center (successor to AWS Single Sign-On)](#aws-iam-identity-center-successor-to-aws-single-sign-on)
   - [Summary](#summary)
 
 ## AWS STS (SecurityToken Service)
@@ -40,12 +40,15 @@
   - AD-compatible managed directory on AWS
   - Cannot be joined with on-premise AD
 
-## AWS Single Sign-On (SSO)
+## AWS IAM Identity Center (successor to AWS Single Sign-On)
 
-- Centrally manage Single SignOn to access multiple accounts and 3rd-party business applications.
-- Integrated with AWS Organizations
-- Supports SAML 2.0 markup
-- Integration with on-premise Active Directory
+- One login (single sign-on) for all your
+  - AWS accounts in AWS Organizations
+  - Business cloud applications (e.g., Salesforce, Box, Microsoft 365, ...)
+  - SAML2.0-enabled applications
+  - EC2 Windows Instances
+- Identity providers
+  - Built-in identity store in IAM Identity Center
 
 ## Summary
 
@@ -56,7 +59,7 @@
 - **Security Token Service (STS)**: temporary, limited-privileges credentials to access AWS resources
 - **Cognito**: create a database of users for your mobile & web applications
 - **Directory Services**: integrate Microsoft Active Directory in AWS
-- **Single Sign-On (SSO)**: one login for multiple AWS accounts & applications
+- **IAM Identity Center**: one login for multiple AWS accounts & applications
 
 * * *
 

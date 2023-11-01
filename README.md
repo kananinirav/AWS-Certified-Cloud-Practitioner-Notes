@@ -45,7 +45,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [Account Management, Billing & Support](sections/account_management_billing_support.md)
   - AWS Organizations, Multi Account Strategies, Service Control Policies (SCP), AWS Organization - Consolidated Billing, AWS Control Tower, AWS Resource Access Manager (AWS RAM), AWS Service Catalog, Pricing Models in AWS, Compute Pricing, Storage Pricing, Database Pricing - RDS, Content Delivery - CloudFront, Networking Costs in AWS per GB - Simplified
 - [Advanced Identity](sections/advanced_identity.md)
-  - AWS STS (SecurityToken Service), Amazon Cognito (simplified), What is Microsoft Active Directory (AD)?, AWS Single Sign-On (SSO)
+  - AWS STS (SecurityToken Service), Amazon Cognito (simplified), What is Microsoft Active Directory (AD)?, AWS IAM Identity Center
 - [Other AWS Services](sections/other_aws_services.md)
   - Amazon WorkSpaces, Amazon AppStream 2.0, Amazon Sumerian, AWS IoT Core, Amazon Elastic Transcoder, AWS Device Farm, AWS Backup, AWS Elastic Disaster Recovery (DRS), AWS DataSync, AWS Fault Injection Simulator (FIS)
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
