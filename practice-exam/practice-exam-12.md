@@ -341,7 +341,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Configuration of the security group.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, C
+      Correct answer: B, E
     </details>
 
 34. A company is looking for a scalable data warehouse solution. Which of the following AWS solutions would meet the company’s needs?
@@ -373,7 +373,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Physical access to cloud data centers.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: B, C
     </details>
 
 37. How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?

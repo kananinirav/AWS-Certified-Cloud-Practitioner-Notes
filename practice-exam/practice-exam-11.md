@@ -108,7 +108,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Basic
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: 
+      Correct answer: B
     </details>
 
 11. What is the lowest-cost, durable storage option for retaining database backups for immediate retrieval?
@@ -321,7 +321,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Amazon Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 32. A company will be moving from an on-premises data center to the AWS Cloud. What would be one financial difference after the move?
@@ -403,7 +403,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Migration Hub.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: A
     </details>
 
 40. Which AWS service provides a customized view of the health of specific AWS services that power a customer’s workloads running on AWS?
