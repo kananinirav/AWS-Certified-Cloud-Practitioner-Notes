@@ -88,7 +88,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Download the AWS Management Console for the new Region.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 9. Why is it beneficial to use Elastic Load Balancers with applications?
@@ -98,7 +98,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. They automatically adjust capacity. They are provided at no charge to users.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: C
     </details>
 
 10. Which is the MINIMUM AWS Support plan that allows for one-hour target response time for support cases?
@@ -138,7 +138,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. Enterprise.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 14. If a customer needs to audit the change management of AWS resources, which of the following AWS services should the customer use?
@@ -433,7 +433,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Discussion Forums.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: C, D
     </details>
 
 43. How can a user protect against AWS service disruptions if a natural disaster affects an entire geographic area?

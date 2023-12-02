@@ -194,7 +194,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: CD
 
     Explanation: <https://aws.amazon.com/solutions/aws-landing-zone/>
 
@@ -292,7 +292,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: BD
 
     Explanation: <https://aws.amazon.com/cloudfront/faqs/>
 
@@ -394,7 +394,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: BC
 
     </details>
 
@@ -421,7 +421,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: B
 
     Explanation:
     <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
@@ -547,7 +547,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: C
 
     Explanation:
     <https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html>
@@ -609,7 +609,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: BD
 
     </details>
 
@@ -656,7 +656,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
     Explanation:
     - An easy-to-use service for deploying and scaling web applications and web services developed in a number of programming languages.

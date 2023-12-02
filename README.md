@@ -74,4 +74,15 @@ Purchase an ebook on **Google Play Book**: [AWS Cloud Practitioner Study Notes e
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
 
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
+
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
+
+<div class="hide-star">
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/AWS-Certified-Cloud-Practitioner-Notes&type=Date)](https://star-history.com/#kananinirav/AWS-Certified-Cloud-Practitioner-Notes&Date)
+
+</div>
