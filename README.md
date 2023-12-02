@@ -53,7 +53,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Practice Exams ( dumps )
 
-- **[Practice Exam List](practice-exam/exams.md)**
+- **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
 
 ## Buy AWS Cloud Practitioner Study Notes And Practice Exams Ebook
 
