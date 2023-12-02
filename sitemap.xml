@@ -6,127 +6,127 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://kananinirav.com/</loc>
-  <lastmod>2023-10-09T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>1.00</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/cloud_computing.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/iam.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/ec2.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/ec2_storage.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/elb_asg.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/s3.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/databases.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/other_compute.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/deploying.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/global_infrastructure.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/cloud_integration.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/cloud_monitoring.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/vpc.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/security_compliance.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/machine_learning.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/account_management_billing_support.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/advanced_identity.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/other_aws_services.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/sections/architecting_and_ecosystem.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/study-guide.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
@@ -137,145 +137,145 @@
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-1.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-2.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-3.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-4.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-5.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-6.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-7.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-8.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-9.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-10.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-11.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-12.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-13.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-14.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-15.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-16.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-17.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-18.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-19.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-20.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-21.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-22.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/practice-exam/practice-exam-23.html</loc>
-  <lastmod>2023-09-25T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kananinirav.com/mind-map-aws-ccp.html</loc>
-  <lastmod>2023-10-02T09:00:00+00:00</lastmod>
+  <lastmod>2023-12-01T09:00:00+00:00</lastmod>
   <priority>0.80</priority>
   <changefreq>daily</changefreq>
 </url>

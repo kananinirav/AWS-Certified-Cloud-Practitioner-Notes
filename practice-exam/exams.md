@@ -34,12 +34,12 @@ If this guide has been helpful to you please share it with others and react to t
 - [Practice Exam - 22](./practice-exam-22.md)
 - [Practice Exam - 23](./practice-exam-23.md)
 
-## Buy AWS Cloud Practitioner Study Notes And Practice Exams Ebook
+## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
 
 ![Ebook_Cover](../images/Ebook_Cover.png)
 
-**[Sample](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes](https://www.buymeacoffee.com/kananinirav/e/151079)**
+**[Sample PDF](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
+**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)**
 
-Purchase an ebook on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/7ERcTBI)(free for kindle unlimited users)**
+Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/7ERcTBI) (free for kindle unlimited users)**

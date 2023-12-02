@@ -1,4 +1,4 @@
-# AWS Cloud Practitioner Study Notes
+# AWS Cloud Practitioner Study Notes (CLF-C02)
 
 - This will help you for quick revision before exam.
 - If you are studying for AWS Cloud Practitioner certifications or you already have them but want to have digital notes of what you studied, here it is and you can come back as many times as you need. I share the notes I used to study and pass my exam.
@@ -55,17 +55,17 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
 
-## Buy AWS Cloud Practitioner Study Notes And Practice Exams Ebook
+## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
 
 ![Ebook_Cover](./images/Ebook_Cover.png)
 
-**[Sample](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams](https://www.buymeacoffee.com/kananinirav/e/174069)**
+**[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
 
-Purchase an ebook on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94)(free for kindle unlimited users)**
+Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (free for kindle unlimited users)**
 
-Purchase an ebook on **Google Play Book**: [AWS Cloud Practitioner Study Notes ebook](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
+Purchase an PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
 
 ## Other AWS And Azure Certification Notes
 
