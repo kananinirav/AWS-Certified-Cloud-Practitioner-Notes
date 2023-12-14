@@ -186,7 +186,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. Amazon RDS.
     - B. AWS Outposts.
     - C. Amazon DocumentDB.
-    - D. Amazon DynameDB.
+    - D. Amazon DynamoDB.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
