@@ -493,7 +493,7 @@ If this practice exam has been helpful to you please share it with others and re
     - B. Store media assets on an additional EBS volume and increase the capacity of your server.
     - C. Replicate media assets to at least two availability zones.
     - D. Reduce the size of media assets using the Amazon Elastic Transcoder.
-    - E. Store media assets in $3 and use CloudFront to distribute these assets.
+    - E. Store media assets in S3 and use CloudFront to distribute these assets.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, E
