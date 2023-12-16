@@ -414,7 +414,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Shield.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 41. Which of the following are advantages of AWS consolidated billing? (Choose two)
