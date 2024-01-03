@@ -442,7 +442,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-27. Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?
+27. Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)
     - A. AWS VPN
     - B. Amazon Redshift
     - C. API Gateway
@@ -450,7 +450,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: A, D
 
     Explanation:
 

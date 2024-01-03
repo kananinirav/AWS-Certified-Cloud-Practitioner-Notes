@@ -56,14 +56,14 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-6. Which AWS service allows companies to connect an Amazon VPC to an on-premises data center?
+6. Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)
     - A. AWS VPN.
     - B. Amazon Redshift.
     - C. API Gateway.
     - D. Amazon Direct Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: A, D
     </details>
 
 7. Which AWS service of feature can be used to monitor CPU usage?
