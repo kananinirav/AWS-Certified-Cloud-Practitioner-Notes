@@ -72,6 +72,7 @@ Purchase an PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF
 - [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
 - [AWS Solutions Architect - Associate (SAA-C03)](https://certification.kananinirav.com/aws-solutions-architect-associate/)
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
+- [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
 
 #### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee.
 
