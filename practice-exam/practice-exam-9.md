@@ -20,7 +20,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. It simplifies relational database administration tasks.
     - B. It provides 99.99999999999% reliability and durability.
     - C. It automatically scales databases for loads.
-    - D. It enabled users to dynamically adjust CPU and RAM resources.
+    - D. It enables users to dynamically adjust CPU and RAM resources.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
@@ -46,7 +46,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A
     </details>
 
-5. Which of the following can limit Amazon Storage Service (Amazon S3) bucket access to specific users?
+5. Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
     - A. A public and private key-pair.
     - B. Amazon Inspector.
     - C. AWS Identity and Access Management (IAM) policies.
@@ -70,7 +70,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. AWS CloudTrail.
     - B. VPC Flow Logs.
     - C. Amazon CloudWatch.
-    - D. AWSConfig.
+    - D. AWS Config.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
@@ -273,7 +273,7 @@ If this practice exam has been helpful to you please share it with others and re
 27. Which AWS services provide a way to extend an on-premises architecture to the aws cloud? (Select TWO)
     - A. Amazon EBS.
     - B. Amazon Connect.
-    - C. AWS Storage Gateway AWS CLOUD PRACTITIONER DUMPS.
+    - C. AWS Storage Gateway.
     - D. Amazon CloudFront.
     - E. AWS Direct Connect.
 
