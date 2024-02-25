@@ -51,13 +51,13 @@ If this practice exam has been helpful to you please share it with others and re
     - A. Cost Explorer
     - B. TCO Calculator
     - C. AWS Budgets
-    - D. Simple Monthly Calculator
+    - D. AWS Pricing Calculator
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/aws-cost-management/aws-cost-explorer/>
+    Explanation: <https://calculator.aws/#/>
 
     </details>
 
@@ -491,7 +491,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: BD
 
     Explanation: <https://aws.amazon.com/cloudfront/faqs/>
 
