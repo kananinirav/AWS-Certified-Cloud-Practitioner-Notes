@@ -287,7 +287,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. There is no need to architect for these capabilities in AWS, as AWS is redundant by default.
     - B. Deploy the application in a single Availability Zone.
     - C. Deploy the application in multiple Availability Zones in a single AWS region.
-    - D. Deploy the application in muitiple Availability Zones in multiple AWS regions.
+    - D. Deploy the application in multiple Availability Zones in multiple AWS regions.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
