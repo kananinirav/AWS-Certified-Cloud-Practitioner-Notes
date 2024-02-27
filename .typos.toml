@@ -1,0 +1,14 @@
+# https://github.com/crate-ci/typos/blob/master/docs/reference.md
+
+[default.extend-words]
+# Don't correct the surname "Teh"
+Daa = 'Daa'
+CAF = 'CAF'
+
+[type.png]
+extend-glob = ["*.png"]
+check-file = false
+
+[type.jpg]
+extend-glob = ["*.jpg"]
+check-file = false
