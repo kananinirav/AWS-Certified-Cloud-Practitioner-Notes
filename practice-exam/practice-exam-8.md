@@ -112,8 +112,8 @@ If this practice exam has been helpful to you please share it with others and re
 11. A company is running a large web application that needs to always be available. The application tends to slow down when CPU usage is greater than 60%. How can they track when CPU usage goes above 60% for any of the EC2 Instances in their account?
     - A. Use CloudFront to monitor the CPU usage.
     - B. Set the AWS Config CPU threshold to 60% to receive a notification when EC2 usage exceeds that value.
-    - C. Use CloudWatch Alarms to monitor the CPUand alert when the CPU usage is >= 60%.
-    - D. Use SNS to menitor the utilization of the server.
+    - C. Use CloudWatch Alarms to monitor the CPU and alert when the CPU usage is >= 60%.
+    - D. Use SNS to monitor the utilization of the server.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
@@ -154,8 +154,8 @@ If this practice exam has been helpful to you please share it with others and re
     - A. An IAM user is uniquely associated with only one person, however a role is intended to be assumable by anyone who needs it.
     - B. An IAM user has permanent credentials associated with it, however a role has temporary credentials associated with it.
     - C. IAM users are more cost effective than IAM roles.
-    - D. Arole is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.
-    - E. An IAM user has temporary credentials associated withit, however a role has permanent credentials associated with it.
+    - D. A role is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.
+    - E. An IAM user has temporary credentials associated with it, however a role has permanent credentials associated with it.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, B
@@ -258,7 +258,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. It eliminates the need for change management.
     - B. It allows for Cross-Region Replication.
     - C. It helps AWS customers reduce Privileged Access to AWS resources.
-    - D. It allows individual application compenents or services to be modified without affecting other components.
+    - D. It allows individual application components or services to be modified without affecting other components.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
@@ -401,7 +401,7 @@ If this practice exam has been helpful to you please share it with others and re
 
 39. A financial services company decides to migrate one of its applications to AWS. The application deals with sensitive data, such as credit card information, and must run on a PCI-compliant environment. Which of the following is the company’s responsibility when building a PCI-compliant environment in AWS? (Choose TWO)
     - A. Start the migration process immediately as all AWS services are PCI compliant.
-    - B. Ensure that AWS services are configured properly to meetall PCI DSS standards.
+    - B. Ensure that AWS services are configured properly to meet all PCI DSS standards.
     - C. Restrict any access to cardholder data and create a policy that addresses information security for all personnel.
     - D. Configure the underlying infrastructure of AWS services to meet all PCI DSS requirements.
     - E. Ensure that all PCI DSS physical security requirements are met.
