@@ -1,6 +1,6 @@
 # Security & Compliance
 
-- [Security & Compliance](#security--compliance)
+- [Security \& Compliance](#security--compliance)
   - [AWS Shared Responsibility Model](#aws-shared-responsibility-model)
     - [Example, for RDS](#example-for-rds)
     - [Example, for S3](#example-for-s3)
@@ -290,10 +290,10 @@
 - Abusive & prohibited behaviors are:
   - Spam – receiving undesired emails from AWS-owned IP address, websites & forums spammed by AWS resources
   - Port scanning – sending packets to your ports to discover the unsecured ones
-  - DoS or DDoS attacks – AWS-owned IP addresses attempting to overwhlem or crash your servers/softwares
+  - DoS or DDoS attacks – AWS-owned IP addresses attempting to overwhelm or crash your servers/softwares
   - Intrusion attempts – logging in on your resources
   - Hosting objectionable or copyrighted content – distributing illegal or copyrighted content without consent
-  - Distributing malware – AWS resources distributing softwares to harm computers or machines
+  - Distributing malware – AWS resources distributing software to harm computers or machines
 - Contact the AWS Abuse team: AWS abuse form, or abuse@amazonaws.com
 
 ## Root user privileges

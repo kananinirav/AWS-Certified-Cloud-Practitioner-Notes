@@ -388,7 +388,7 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 1. According to best practices, how should an application be designed to run in the AWS Cloud?
-    - A. Use tighly coupled components.
+    - A. Use tightly coupled components.
     - B. Use loosely coupled components.
     - C. Use infrequently coupled components.
     - D. Use frequently coupled components.
@@ -633,7 +633,7 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 1. A customer is using multiple AWS accounts with separate billing. <br/>How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
-    - A. Create one global AWS acount and move all AWS resources to tha account.
+    - A. Create one global AWS account and move all AWS resources to that account.
     - B. Sign up for three years of Reserved Instance pricing up front.
     - C. Use the consolidated billing feature from AWS Organizations.
     - D. Sign up for the AWS Enterprise support plan to get volume discounts.
