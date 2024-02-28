@@ -103,7 +103,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. AWS Control Tower.
     - B. Amazon Macie.
     - C. AWS Systems Manager Patch Manager.
-    - D. AWS Systems Manager Patch Manager and AWS Security Hub.
+    - D. AWS Security Hub.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A

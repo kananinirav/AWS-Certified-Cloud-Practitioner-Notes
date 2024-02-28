@@ -1,0 +1,19 @@
+name: Check typos
+on:
+  pull_request:
+jobs:
+  run:
+    name: Spell Check with Typos
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Actions Repository
+      uses: actions/checkout@v2
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v41
+    - name: Check spelling of file.txt
+      if: ${{ steps.changed-files.outputs.all_changed_files != '' }}
+      uses: crate-ci/typos@master
+      with:
+        files: ${{ steps.changed-files.outputs.all_changed_files }}
+        config: ./.typos.toml
