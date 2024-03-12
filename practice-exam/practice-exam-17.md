@@ -723,10 +723,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: AC
 
     Explanation:
-    - <https://aws.amazon.com/comprehend/features/>
     - <https://aws.amazon.com/cloudfront/>
 
     </details>
