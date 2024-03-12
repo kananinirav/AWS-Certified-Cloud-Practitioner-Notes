@@ -66,7 +66,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: A, D
     </details>
 
-7. Which AWS service of feature can be used to monitor CPU usage?
+7. Which AWS service or feature can be used to monitor CPU usage?
     - A. AWS CloudTrail.
     - B. VPC Flow Logs.
     - C. Amazon CloudWatch.
@@ -158,7 +158,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-16. A company has deployed several relational databases on Amazon EC2 instances Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
+16. A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
     - A. Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
     - B. Enable automate patching for the instances using the Amazon RDS console.
     - C. In AWS Config. configure a rule for the instances and the required patch level.
@@ -168,7 +168,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-17. Which mechanism allows developers lo access AWS sendees from application code?
+17. Which mechanism allows developers to access AWS services from application code?
     - A. AWS Software Development Kit.
     - B. AWS Management Console.
     - C. AWS CodePipeline.
@@ -244,7 +244,7 @@ If this practice exam has been helpful to you please share it with others and re
     - A. AWS Billing and Cost Management.
     - B. Consolidated billing.
     - C. Amazon CloudWatch.
-    - D. Amazon GuickStght.
+    - D. Amazon QuickSight.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
