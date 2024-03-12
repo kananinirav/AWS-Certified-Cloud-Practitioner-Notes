@@ -506,7 +506,7 @@ If this practice exam has been helpful to you please share it with others and re
     Correct Answer: A
 
     Explanation:
-    - WS Artifact is your go-to, central resource for compliance-related information that matters to you.
+    - AWS Artifact is your go-to, central resource for compliance-related information that matters to you.
     - It provides on-demand access to AWS's security and compliance reports and select online agreements.
     - The AWS SOC 2 report is particularly helpful for completing questionnaires because it provides a comprehensive description of the implementation and operating effectiveness of AWS security controls.
     - Another useful document is the Executive Briefing within the AWS FedRAMP Partner Package.
