@@ -106,7 +106,8 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-8. Under the AWS shared responsibility model, which of the following are customer responsibilities? (Choose two.)   - A. Setting up server-side encryption on an Amazon S3 bucket
+8. Under the AWS shared responsibility model, which of the following are customer responsibilities? (Choose two.)   
+    - A. Setting up server-side encryption on an Amazon S3 bucket
     - B. Amazon RDS instance patching
     - C. Network and firewall configurations
     - D. Physical security of data center facilities
