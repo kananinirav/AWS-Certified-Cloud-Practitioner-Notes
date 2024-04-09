@@ -146,13 +146,12 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: C
 
     Explanation:
-    - AWS manages dozens of compliance programs in its infrastructure.
-    - This means that segments of your compliance have already been completed.
+    - AWS allows you to access as much or as little capacity as you need, and scale up or down as required with only a few minutes’ notice
 
-    Reference: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/security-and-compliance.html>
+    Reference: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html>
 
     </details>
 
@@ -183,9 +182,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: AD
 
-    Explanation: <https://aws.amazon.com/getting-started/tutorials/continuous-deployment-pipeline/>
+    Explanation:
+    - EBS -> automates deploying code and provisioning infrastructure
+    - CloudFormation -> Use templates to deploy code and infrastructure
 
     </details>
 
@@ -216,7 +217,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: AB
 
     Explanation: <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
 
@@ -365,7 +366,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: B
 
     Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-hour-billing/>
 
@@ -637,7 +638,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: AC
 
     </details>
 

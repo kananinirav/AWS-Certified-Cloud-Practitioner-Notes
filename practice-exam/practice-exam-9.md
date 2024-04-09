@@ -432,7 +432,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. They do not require the customer to optimize instance type or size selections.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: B
     </details>
 
 43. Which services can be used across hybrid AWS Cloud architectures? (Select TWO)

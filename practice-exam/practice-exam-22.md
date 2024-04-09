@@ -63,7 +63,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: A
+    Correct Answer: D
 
     </details>
 
@@ -160,7 +160,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: CE
 
     </details>
 
@@ -306,9 +306,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: BD
 
     Explanation: <https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/>
+
+    Option D increased complexity and cost.
 
     </details>
 
@@ -466,7 +468,7 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 37. What is a characteristic of Convertible Reserved Instances (RIs)?
-    - A. Users can exchange Convertible RIs for other Convertible RIs from a different instance family.
+    - A. Users can exchange Convertible RIs for other Convertible RIs from a different instance family with an equal or higher value than the Convertible Reserved Instances that you are exchanging.
     - B. Users can exchange Convertible RIs for other Convertible RIs in different AWS Regions.
     - C. Users can sell and buy Convertible RIs on the AWS Marketplace.
     - D. Users can shorten the term of their Convertible RIs by merging them with other Convertible RIs.
