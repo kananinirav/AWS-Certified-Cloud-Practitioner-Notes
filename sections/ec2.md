@@ -231,7 +231,7 @@ t2.micro is part of the AWS free tier (up to 750 hours per month)
 ### Dedicated Hosts
 
 - A physical server with EC2 instance capacity fully dedicated to your use
-- Allows you address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe—VM software licenses)
+- Allows you to address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe—VM software licenses)
 - Purchasing Options:
   - On-demand – pay per second for active Dedicated Host
   - Reserved - 1 or 3 years (No Upfront, Partial Upfront, All Upfront)
