@@ -1,4 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico">
+<link href="{{ site.baseurl }}/assets/css/custom.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JMDDTT0Y7C"></script>
 <script>
@@ -11,110 +14,3 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7252354354222007"
      crossorigin="anonymous" onerror="adBlockFunction();"></script>
 
-<!-- detect Ad-Blocker and display error pop up  -->
-<script>
-  function adBlockFunction() {
-    console.log('Add Blocker Detected');
-    let adp_underlay = document.createElement('div');
-    adp_underlay.className = 'adp-underlay';
-    document.body.appendChild(adp_underlay);
-    let adp = document.createElement('div');
-    adp.className = 'adp';
-    adp.innerHTML = `
-      <image src='./exclamation-mark.png' class='img' />
-      <h2>AdBlock Detected!</h2>
-      <p>Sorry. We detected that you have activated Ad-Blocker. <br />
-        Please Consider supporting us by disabling your Ad-Blocker It helps us in maintaining this website.<br />
-        To View the content disable Ad-Blocker and refresh the page. Thank You !!!</p>
-    `;
-    document.body.appendChild(adp);
-    adp.querySelector('a').onclick = e => {
-      e.preventDefault();
-      document.body.removeChild(adp_underlay);
-      document.body.removeChild(adp);
-    };
-  }
-
-  function uBlockActive(){
-    if ( window.adsbygoogle.push.length > 0) {
-      return false
-    }
-    adBlockFunction();
-  }
-</script>
-<style>
-  .img{
-    height: 2rem;
-    width: 2rem;
-  }
-  .adp {
-    display: flex;
-    box-sizing: border-box;
-    flex-flow: column;
-    position: fixed;
-    z-index: 99999;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 22rem;
-    height: 20rem;
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 5px;
-    align-items: center;
-  }
-  .adp h2 {
-    border-bottom: 1px solid #eee;
-    margin: 0;
-    padding: 15px 0;
-  }
-  .adp p {
-     flex-grow: 1;
-  }
-  .adp a {
-    display: block;
-    text-decoration: none;
-    width: 100%;
-    background-color: #366ed8;
-    text-align: center;
-    padding: 10px;
-    box-sizing: border-box;
-    color: #ffffff;
-    border-radius: 5px;
-  }
-  .adp a:hover {
-    background-color: #3368cc;
-  }
-  .adp-underlay {
-    background-color: rgba(0, 0, 0, 0.8);
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: 99998;
-  }
-  details summary {
-    cursor: pointer;
-    background: #159957b5;
-    color: white;
-    border-radius: 1rem;
-    padding-left: 1rem;
-    margin-bottom: 1rem;
-  }
-  #bmc-wbtn {
-    position: fixed !important;
-    bottom: 100px !important;
-    right: 20px !important;
-    z-index: 9999 !important;
-  }
-
-  @media (max-width: 1024px) {
-    #bmc-wbtn {
-      display: none !important;
-    }
-  }
-  .hide-star{
-    display: none
-  }
-</style>

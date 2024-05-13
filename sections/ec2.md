@@ -2,7 +2,7 @@
 
 - [EC2: Virtual Machines](#ec2-virtual-machines)
   - [What is Amazon EC2?](#what-is-amazon-ec2)
-    - [EC2 sizing & configuration options](#ec2-sizing--configuration-options)
+    - [EC2 sizing \& configuration options](#ec2-sizing--configuration-options)
     - [EC2 User Data](#ec2-user-data)
     - [EC2 Instance Types - Overview](#ec2-instance-types---overview)
       - [General Purpose](#general-purpose)
@@ -231,7 +231,7 @@ t2.micro is part of the AWS free tier (up to 750 hours per month)
 ### Dedicated Hosts
 
 - A physical server with EC2 instance capacity fully dedicated to your use
-- Allows you address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe—VM software licenses)
+- Allows you to address compliance requirements and use your existing server- bound software licenses (per-socket, per-core, pe—VM software licenses)
 - Purchasing Options:
   - On-demand – pay per second for active Dedicated Host
   - Reserved - 1 or 3 years (No Upfront, Partial Upfront, All Upfront)

@@ -63,9 +63,9 @@ Each Section contains a number of units. **Below Table Link** containing informa
 **[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
 **[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
 
-Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (free for kindle unlimited users)**
+Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
 
-Purchase an PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
+Purchase a PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
 
 ## Other AWS And Azure Certification Notes
 
