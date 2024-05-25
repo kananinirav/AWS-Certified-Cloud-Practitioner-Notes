@@ -45,6 +45,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      `This is because of the following`
+      `Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped. Each partial instance-hour consumed will be billed per-second for Linux, Windows, Windows with SQL Enterprise, Windows with SQL Standard, and Windows with SQL Web Instances, and as a full hour for all other instance types.`
+      `please can someone confim this`
     </details>
 
 5. What is the AWS Support feature that allows customers to manage support cases programmatically?
@@ -372,6 +375,8 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      `Shouldn't this be AWS WAF. Therefore Correct answer: B`
+      `AWS WAF - is a web application firewall that lets customers monitor the HTTP and HTTPS requests that are forwarded to Amazon CloudFront or an Application Load Balancer.`
     </details>
 
 37. A company is migrating a web application to AWS. The application’s compute capacity is continually utilized throughout the year. Which of the below options offers the company the most cost-effective solution?
