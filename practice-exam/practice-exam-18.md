@@ -216,6 +216,8 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
+    `It should be the following:
+    Correct Answer: B`
 
     Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html>
 
@@ -277,6 +279,8 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
+    `It should be`
+    `Correct Answer: B`
 
     Explanation:
     - AWS Service Catalog Delivery Partners are APN Consulting Partners who help create catalogs of IT services that are approved by the customer's organization for use on AWS.
