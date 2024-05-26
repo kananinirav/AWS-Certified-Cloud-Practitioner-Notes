@@ -150,13 +150,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
     Explanation:
-    - <https://aws.amazon.com/rds/instance-types/>
-    - Amazon RDS provides a selection of instance types optimized to fit different relational database use cases.
-    - Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate mix of resources for your database.
-    - Each instance type includes several instance sizes, allowing you to scale your database to the requirements of your target workload.
+    - AWS Managed Services takes care of all of your patching and backup activities to help keep your resources current and secure. When updates or patches are released by OS vendors, AWS Managed Services applies them in a timely and consistent manner to minimize the impact on your business
+    - Critical security patches are applied immediately, while others are applied based on the patch schedule you request. Backups of Stacks are automated using Amazon Elastic Block Store (EBS) and RDS snapshots, and can be restored in the event of a failure or outage, ensuring business continuity
 
     </details>
 

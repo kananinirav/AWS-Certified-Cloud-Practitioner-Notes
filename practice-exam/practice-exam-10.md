@@ -464,7 +464,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS manages the database type.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct answer: B
     </details>
 
 46. A company’s web application currently has light dependencies on underlying components so when one component fails the entire web application fails. Applying which AWS Cloud design principle will address the current design issue?
