@@ -244,7 +244,7 @@ If this practice exam has been helpful to you please share it with others and re
 17. Which AWS tool is used to compare the cost of running an application on-premises to running the application in the AWS Cloud?
     - A. AWS Trusted Advisor
     - B. AWS Simple Monthly Calculator
-    - C. AWS Total Cost of Ownership (TCO) Calculator
+    - C. AWS Pricing Calculator
     - D. Cost Explorer
 
     <details markdown=1><summary markdown="span">Answer</summary>

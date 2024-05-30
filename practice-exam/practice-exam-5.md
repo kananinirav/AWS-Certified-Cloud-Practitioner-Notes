@@ -45,6 +45,10 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+
+      Explanation:
+      - Pricing is per instance-hour consumed for each instance, from the time an instance is launched until it is terminated or stopped.
+      - Each partial instance-hour consumed will be billed per-second for Linux, Windows, Windows with SQL Enterprise, Windows with SQL Standard, and Windows with SQL Web Instances, and as a full hour for all other instance types.
     </details>
 
 5. What is the AWS Support feature that allows customers to manage support cases programmatically?
