@@ -397,7 +397,7 @@ If this practice exam has been helpful to you please share it with others and re
 39. In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
     - A. ELB.
     - B. Auto Scaling.
-    - C. Amazon Athen.
+    - C. Amazon Athena.
     - D. ECR.
     - E. Amazon EC2.
 
