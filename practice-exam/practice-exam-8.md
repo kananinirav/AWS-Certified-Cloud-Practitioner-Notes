@@ -292,7 +292,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Provides software solutions that run on AWS or any other Cloud vendor.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, D
+      Correct answer: D, E
     </details>
 
 29. What is the benefit of Amazon EBS volumes being automatically replicated within the same availability zone?
