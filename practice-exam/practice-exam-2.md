@@ -340,7 +340,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. Dedicated hosting.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C, D
+      Correct answer: B, C
     </details>
 
 34. Which of the following aspects of security are managed by AWS? (Choose TWO)

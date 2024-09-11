@@ -448,13 +448,13 @@ If this practice exam has been helpful to you please share it with others and re
     </details>
 
 44. Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?
-    - A. Amazon EBS.
+    - A. Amazon AutoScaling.
     - B. Amazon Redshift.
     - C. AWS CloudTrail.
     - D. AWS Lambda.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: A
     </details>
 
 45. Amazon Relational Database Service (Amazon RDS) offers which of the following benefits over traditional database management?

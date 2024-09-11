@@ -214,7 +214,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: B
 
     Explanation: <https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html>
 

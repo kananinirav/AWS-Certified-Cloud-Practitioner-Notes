@@ -66,6 +66,8 @@ Purchase a PDF on Kindle and adjust your region settings for the most favorable 
 
 Purchase a PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
 
+Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
+
 ## Other AWS And Azure Certification Notes
 
 - [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
