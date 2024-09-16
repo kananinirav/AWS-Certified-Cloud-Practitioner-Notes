@@ -5,6 +5,20 @@
 
 ![Logo](./images/Cloud-Practitioner.png)
 
+## Buy This AWS Cloud Practitioner Study Notes And Practice Exams PDF
+
+![Ebook_Cover](./images/Ebook_Cover.png)
+
+**[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
+
+Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
+
+Purchase a PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
+
+Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
+
 Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
 ## Table of contents
@@ -53,20 +67,6 @@ Each Section contains a number of units. **Below Table Link** containing informa
 ## Practice Exams ( dumps )
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
-
-## Buy AWS Cloud Practitioner Study Notes And Practice Exams PDF
-
-![Ebook_Cover](./images/Ebook_Cover.png)
-
-**[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
-
-Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
-
-Purchase a PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
-
-Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
 
 ## Other AWS And Azure Certification Notes
 

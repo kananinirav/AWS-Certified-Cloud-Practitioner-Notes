@@ -410,8 +410,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/custom-tags.html#allocation-how>
-
     </details>
 
 30. What is a benefit of consolidated billing for AWS accounts?
