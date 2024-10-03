@@ -5,20 +5,6 @@
 
 ![Logo](./images/Cloud-Practitioner.png)
 
-## Buy This AWS Cloud Practitioner Study Notes And Practice Exams PDF
-
-![Ebook_Cover](./images/Ebook_Cover.png)
-
-**[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
-
-Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
-
-Purchase a PDF on **Google Play Book**: [AWS Cloud Practitioner Study Notes PDF](https://play.google.com/store/books/details?id=A4rSEAAAQBAJ)
-
-Purchase a PDF on **Leanpub**: [AWS Cloud Practitioner Study Notes (CLF-C02) PDF](https://leanpub.com/aws-cloud-practitioner-study-notes)
-
 Each Section contains a number of units. **Below Table Link** containing information about each sections in detail.
 
 ## Table of contents
@@ -70,8 +56,6 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Other AWS And Azure Certification Notes
 
-- [AWS Developer Associate (DVA-C02)](https://certification.kananinirav.com/aws-developer-associate/)
-- [AWS Solutions Architect - Associate (SAA-C03)](https://certification.kananinirav.com/aws-solutions-architect-associate/)
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
 - [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
 
