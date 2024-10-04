@@ -9,6 +9,10 @@
 
 - [Mind Map for outlining essential topics](https://kananinirav.com/mind-map-aws-ccp.html)
 - [Study Guide](./study-guide.md)
+- [Cloud Computing](./sections/cloud_computing.md)
+  - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
+- [IAM: Identity Access & Management](./sections/iam.md)
+  - What Is IAM?
 
 ## Practice Exams ( dumps )
 
@@ -19,7 +23,7 @@
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
 - [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
 
-#### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
+### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
 
 <a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
