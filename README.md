@@ -12,7 +12,7 @@
 - [Cloud Computing](./sections/cloud_computing.md)
   - What is Cloud Computing?, AWS Global Infrastructure, Shared Responsibility Model
 - [IAM: Identity Access & Management](./sections/iam.md)
-  - What Is IAM?
+  - What Is IAM?, Multi Factor Authentication - MFA, MFA devices options in AWS, How can users access AWS ?, What’s the AWS CLI?, What’s the AWS SDK?
 
 ## Practice Exams ( dumps )
 
