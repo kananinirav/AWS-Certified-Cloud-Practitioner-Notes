@@ -34,12 +34,12 @@ Cloud computing is the on-demand delivery of compute power, database storage, ap
 
 ### The Deployment Models of the Cloud
 
-| **Private Cloud**                                                                 | **Public Cloud**                                                                                       | **Hybrid Cloud**                                                       |
-|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Cloud services used by a single organization, not exposed to the public.          | Cloud resources owned and operated by a third-party cloud service provider, delivered over the Internet. | Keep some servers on-premises and extend some capabilities to the cloud. |
-| Complete control over data, security, and compliance.                             | Cost-effective as infrastructure is shared among multiple users.                                       | Allows data and applications to be shared between private and public clouds. |
-| Security for sensitive applications, ideal for critical workloads.                | Suitable for less sensitive workloads that require high scalability and availability.                   | Offers flexibility, security, and scalability for different use cases.   |
-| Meet specific business needs and compliance requirements.                         | No maintenance required as the cloud provider manages the infrastructure.                              | Provides business continuity, disaster recovery, and data backup solutions. |
+| **Private Cloud**                                                        | **Public Cloud**                                                                                         | **Hybrid Cloud**                                                             |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Cloud services used by a single organization, not exposed to the public. | Cloud resources owned and operated by a third-party cloud service provider, delivered over the Internet. | Keep some servers on-premises and extend some capabilities to the cloud.     |
+| Complete control over data, security, and compliance.                    | Cost-effective as infrastructure is shared among multiple users.                                         | Allows data and applications to be shared between private and public clouds. |
+| Security for sensitive applications, ideal for critical workloads.       | Suitable for less sensitive workloads that require high scalability and availability.                    | Offers flexibility, security, and scalability for different use cases.       |
+| Meet specific business needs and compliance requirements.                | No maintenance required as the cloud provider manages the infrastructure.                                | Provides business continuity, disaster recovery, and data backup solutions.  |
 
 ### The Five Characteristics of Cloud Computing
 
@@ -66,11 +66,11 @@ Cloud computing is the on-demand delivery of compute power, database storage, ap
 
 ### Types of Cloud Computing
 
-| **Infrastructure as a Service (IaaS)**                                              | **Platform as a Service (PaaS)**                                               | **Software as a Service (SaaS)**                                        |
-|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Provides virtualized computing resources over the internet (e.g., AWS EC2).         | Provides a platform allowing customers to develop, run, and manage applications (e.g., AWS Elastic Beanstalk). | Provides software applications over the internet on a subscription basis (e.g., AWS Chime). |
-| Offers maximum control over the infrastructure.                                      | Focus on deploying applications without managing underlying infrastructure.    | Accessible over the internet, usually via a web browser.               |
-| Suitable for developers needing control over OS, middleware, and runtime.           | Ideal for developers who want to focus on application development.             | Suitable for users needing access to software without infrastructure management. |
+| **Infrastructure as a Service (IaaS)**                                      | **Platform as a Service (PaaS)**                                                                               | **Software as a Service (SaaS)**                                                            |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Provides virtualized computing resources over the internet (e.g., AWS EC2). | Provides a platform allowing customers to develop, run, and manage applications (e.g., AWS Elastic Beanstalk). | Provides software applications over the internet on a subscription basis (e.g., AWS Chime). |
+| Offers maximum control over the infrastructure.                             | Focus on deploying applications without managing underlying infrastructure.                                    | Accessible over the internet, usually via a web browser.                                    |
+| Suitable for developers needing control over OS, middleware, and runtime.   | Ideal for developers who want to focus on application development.                                             | Suitable for users needing access to software without infrastructure management.            |
 
 ### Example of Cloud Computing Types
 
@@ -85,10 +85,10 @@ Cloud computing is the on-demand delivery of compute power, database storage, ap
 
 AWS follows three fundamental pricing principles based on the pay-as-you-go pricing model:
 
-| **Fundamental**     | **Description**                                                                                  |
-|---------------------|-------------------------------------------------------------------------------------------------|
-| **Compute**         | Pay for the compute time you consume. Examples include EC2 instance hours or Lambda invocation duration. |
-| **Storage**         | Pay for the amount of data stored in the cloud. Examples include S3 storage space and EBS volume usage. |
+| **Fundamental**       | **Description**                                                                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Compute**           | Pay for the compute time you consume. Examples include EC2 instance hours or Lambda invocation duration.                                                             |
+| **Storage**           | Pay for the amount of data stored in the cloud. Examples include S3 storage space and EBS volume usage.                                                              |
 | **Data Transfer OUT** | Pay for data transfer out of the cloud. Data transfer IN is free. This pricing structure solves the issue of expensive data transfer fees in traditional IT systems. |
 
 ### How Cloud Pricing Solves Traditional IT Cost Issues
@@ -160,11 +160,11 @@ AWS follows three fundamental pricing principles based on the pay-as-you-go pric
 
 ### Example Responsibilities for Different AWS Services
 
-| **Service Type**         | **AWS Responsibility**                                    | **Customer Responsibility**                                         |
-|--------------------------|----------------------------------------------------------|---------------------------------------------------------------------|
-| **IaaS (e.g., EC2)**      | Securing physical infrastructure, hypervisor, and network. | Configure and secure OS, patch management, data, and network settings. |
-| **PaaS (e.g., RDS)**      | Managing the database engine, backups, and patching.       | Secure data at rest and in transit, manage DB access, and IAM roles. |
-| **SaaS (e.g., S3)**       | Protecting the service's underlying infrastructure.        | Manage permissions, bucket policies, and data lifecycle rules.      |
+| **Service Type**     | **AWS Responsibility**                                     | **Customer Responsibility**                                            |
+| -------------------- | ---------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **IaaS (e.g., EC2)** | Securing physical infrastructure, hypervisor, and network. | Configure and secure OS, patch management, data, and network settings. |
+| **PaaS (e.g., RDS)** | Managing the database engine, backups, and patching.       | Secure data at rest and in transit, manage DB access, and IAM roles.   |
+| **SaaS (e.g., S3)**  | Protecting the service's underlying infrastructure.        | Manage permissions, bucket policies, and data lifecycle rules.         |
 
 ### Summary
 
