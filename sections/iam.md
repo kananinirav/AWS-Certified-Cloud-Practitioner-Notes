@@ -39,6 +39,8 @@
 - **Groups**: Logical grouping of users to simplify permission management.
   - Permissions assigned to a group are automatically inherited by its users.
 
+Flexibility in User Management in IAM, users do not have to belong to a group, and a user can belong to multiple groups. This allows user to manage access permissions in a granular and efficient manner. For example, a user could belong to both the “QAs" group and the “Developers” group, inheriting permissions from both.
+
 | **IAM Users**                                              | **IAM Groups**                                           |
 |------------------------------------------------------------|----------------------------------------------------------|
 | Unique identity for accessing AWS services.                | Logical grouping of users to apply common permissions.    |
