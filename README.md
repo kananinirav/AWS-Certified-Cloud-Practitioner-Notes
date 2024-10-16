@@ -15,6 +15,8 @@
   - What Is IAM?, Multi Factor Authentication - MFA, MFA devices options in AWS, How can users access AWS ?, What’s the AWS CLI?, What’s the AWS SDK?
 - [EC2: Virtual Machines](./sections/ec2.md)
   - What is Amazon EC2?, Introduction to Security Groups, Classic Ports to know, EC2 Instance Launch Types, Which purchasing option is right for me?, Shared Responsibility Model for EC2
+- [EC2 Instance Storage](./sections/ec2_storage.md)
+  - EBS Volumes, EFS: Elastic File System, EFS Infrequent Access (EFS-IA), Amazon FSx – Overview, EC2 Instance Store, Shared Responsibility Model for EC2 Storage
 
 ## Practice Exams ( dumps )
 
