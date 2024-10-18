@@ -287,15 +287,21 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+ Correct Answer: C
 
-    Explanation:
-    - AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance
-    - The Security of the cloud is managed by Amazon AWS provider
-    - The Security in the cloud is responsibility of the customer
-    - The customer is responsible for their information and data, their secure transmission, integrity, and encryption Also, the customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2
-    - AWS customers retain control and ownership of their data
-    - The AWS network provides significant protection against traditional network security issues and the customer can implement further protection
+Explanation:
+In the shared responsibility model, AWS is responsible for the security of the cloud (i.e., the infrastructure that runs all of the services offered in the AWS Cloud). This includes tasks related to hardware and software updates, including firmware updates for the underlying infrastructure, such as Amazon EC2 host firmware.
+
+Responsibilities in the Shared Responsibility Model:
+AWS Responsibilities:
+
+Securing the infrastructure, which includes physical security, network security, and the management of the underlying hardware and software.
+Updating firmware on the hosts that run AWS services.
+Customer Responsibilities:
+
+Managing access control (granting access to individuals and services).
+Configuring encryption for data in transit and at rest.
+Maintaining and updating the operating systems, applications, and data used in their deployments.
 
     Reference: <https://www.whizlabs.com/blog/aws-security-shared-responsibility/>
 
