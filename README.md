@@ -17,6 +17,10 @@
   - What is Amazon EC2?, Introduction to Security Groups, Classic Ports to know, EC2 Instance Launch Types, Which purchasing option is right for me?, Shared Responsibility Model for EC2
 - [EC2 Instance Storage](./sections/ec2_storage.md)
   - EBS Volumes, EFS: Elastic File System, EFS Infrequent Access (EFS-IA), Amazon FSx – Overview, EC2 Instance Store, Shared Responsibility Model for EC2 Storage
+- [Elastic Load Balancing & Auto Scaling Groups](./sections/elb_asg.md)
+  - Scalability & High Availability, Vertical Scalability, Horizontal Scalability, High Availability, High Availability & Scalability For EC2, Scalability vs Elasticity (vs Agility), What is load balancing?, What’s an Auto Scaling Group?
+- [Amazon S3](./sections/s3.md)
+  - S3 Use cases, Amazon S3 Overview - Buckets, Amazon S3 Overview - Objects, S3 Websites, S3 Storage Classes, S3 Object Lock & Glacier Vault Lock, Shared Responsibility Model for S3, AWS Snow Family, What is Edge Computing?, Snow Family - Edge Computing, AWS OpsHub, Hybrid Cloud for Storage, AWS Storage Gateway
 
 ## Practice Exams ( dumps )
 
