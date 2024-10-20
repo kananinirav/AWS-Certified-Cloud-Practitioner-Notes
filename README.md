@@ -21,6 +21,10 @@
   - Scalability & High Availability, Vertical Scalability, Horizontal Scalability, High Availability, High Availability & Scalability For EC2, Scalability vs Elasticity (vs Agility), What is load balancing?, What’s an Auto Scaling Group?
 - [Amazon S3](./sections/s3.md)
   - S3 Use cases, Amazon S3 Overview - Buckets, Amazon S3 Overview - Objects, S3 Websites, S3 Storage Classes, S3 Object Lock & Glacier Vault Lock, Shared Responsibility Model for S3, AWS Snow Family, What is Edge Computing?, Snow Family - Edge Computing, AWS OpsHub, Hybrid Cloud for Storage, AWS Storage Gateway
+- [Databases & Analytics](./sections/databases.md)
+  - Databases Intro, Relational Databases, NoSQL Databases, Databases & Shared Responsibility on AWS, AWS RDS Overview, Amazon Aurora, Amazon ElastiCache Overview, DynamoDB, Redshift Overview, Amazon EMR, Amazon Athena, Amazon QuickSight, DocumentDB, Amazon Neptune, Amazon QLDB
+- [Other Compute Section](./sections/other_compute.md)
+  - What is Docker?, ECS, Fargate, ECR, What’s serverless?, Why AWS Lambda ?, Amazon API Gateway, AWS Batch, Batch vs Lambda, Amazon Lightsail, Lambda Summary
 
 ## Practice Exams ( dumps )
 

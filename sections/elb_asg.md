@@ -57,11 +57,11 @@
 
 ## Scalability vs Elasticity (vs Agility)
 
-| **Term**           | **Definition**                                                                                   |
-|--------------------|--------------------------------------------------------------------------------------------------|
-| **Scalability**     | Ability to increase or decrease the capacity to handle varying levels of traffic or load.        |
-| **Elasticity**      | Automatically adjusts resources up or down based on the load in real-time, preventing under or over-provisioning. |
-| **Agility**         | The ability to deploy and manage resources quickly and efficiently in response to changing demands. |
+| **Term**        | **Definition**                                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Scalability** | Ability to increase or decrease the capacity to handle varying levels of traffic or load.                         |
+| **Elasticity**  | Automatically adjusts resources up or down based on the load in real-time, preventing under or over-provisioning. |
+| **Agility**     | The ability to deploy and manage resources quickly and efficiently in response to changing demands.               |
 
 ## What is Load Balancing?
 

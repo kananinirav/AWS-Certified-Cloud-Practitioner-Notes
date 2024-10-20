@@ -38,6 +38,7 @@
 - **Users**: Represent individual identities that interact with AWS services. Users have unique credentials (username, password, access keys).
 - **Groups**: Logical grouping of users to simplify permission management.
   - Permissions assigned to a group are automatically inherited by its users.
+- Flexibility in User Management in IAM, users do not have to belong to a group, and a user can belong to multiple groups. This allows user to manage access permissions in a granular and efficient manner. For example, a user could belong to both the “QAs" group and the “Developers” group, inheriting permissions from both.
 
 | **IAM Users**                                              | **IAM Groups**                                           |
 |------------------------------------------------------------|----------------------------------------------------------|
@@ -54,6 +55,8 @@
   - **Roles**
 
 ### IAM Policies Inheritance
+
+![IAM Policies Inheritance](../images/IAM_Policies_inheritance.png)
 
 - Policies are evaluated together for a user, including:
   - **Directly attached policies**.
