@@ -25,6 +25,12 @@
   - Databases Intro, Relational Databases, NoSQL Databases, Databases & Shared Responsibility on AWS, AWS RDS Overview, Amazon Aurora, Amazon ElastiCache Overview, DynamoDB, Redshift Overview, Amazon EMR, Amazon Athena, Amazon QuickSight, DocumentDB, Amazon Neptune, Amazon QLDB
 - [Other Compute Section](./sections/other_compute.md)
   - What is Docker?, ECS, Fargate, ECR, What’s serverless?, Why AWS Lambda ?, Amazon API Gateway, AWS Batch, Batch vs Lambda, Amazon Lightsail, Lambda Summary
+- [Deploying and Managing Infrastructure at Scale](sections/deploying.md)
+  - What is CloudFormation?, AWS Cloud Development Kit (CDK), Developer problems on AWS, Typical architecture: Web App 3-tier, AWS Elastic Beanstalk Overview, AWS CodeDeploy, AWS CodeCommit, AWS CodeBuild, AWS CodePipeline, AWS CodeArtifact, AWS CodeStar, AWS Cloud9, AWS Systems Manager (SSM), AWS OpsWorks
+- [Global Infrastructure](sections/global_infrastructure.md)
+  - Why make a global application?, Amazon Route 53 Overview, Route 53 Routing Policies, AWS CloudFront, AWS Global Accelerator, AWS Outposts, AWS WaveLength, AWS Local Zones
+- [Cloud Integration](sections/cloud_integration.md)
+  - Amazon SQS - Simple Queue Service, Amazon Kinesis, Amazon SNS, Amazon MQ
 
 ## Practice Exams ( dumps )
 
