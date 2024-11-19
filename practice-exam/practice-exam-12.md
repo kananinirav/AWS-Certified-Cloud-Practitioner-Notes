@@ -191,7 +191,7 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B, D
     </details>
 
-19. A Cloud Practitioner must determine if any security groups in an AW account have been provisioned to allow unrestricted access for specific ports What is the SIMPLEST way to do this?
+19. A Cloud Practitioner must determine if any security groups in an AWS account have been provisioned to allow unrestricted access for specific ports. What is the SIMPLEST way to do this?
     - A. Review the inbound rules for each security group in the Amazon EC2 management console to check for port 0.0.0.0/0.
     - B. Run AWS Trusted Advisor and review the findings.
     - C. Open the AWS IAM console and check the inbound rule filters for open access.
