@@ -180,12 +180,12 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-18. A company wants to migrate its applications to a VPC on AWS These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
-    - A. Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated
-    - B. Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC
-    - C. Use Amazon Athena to query data from the on-premises database servers
-    - D. Connect the company’s on-premises data center to AWS using AWS Direct Connect
-    - E. Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers
+18. A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. What combination of actions will enable the company to accomplish this goals? (Select TWO)
+    - A. Use the AWS Service Catalog to identify a list of on-premises resources that can be migrated.
+    - B. Build a VPN connection between an on-premises device and a virtual private gateway in the new VPC.
+    - C. Use Amazon Athena to query data from the on-premises database servers.
+    - D. Connect the company’s on-premises data center to AWS using AWS Direct Connect.
+    - E. Leverage Amazon CloudFront to restrict access to static web content provided through the company’s on-premises web servers.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
