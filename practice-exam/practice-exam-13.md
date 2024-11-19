@@ -48,7 +48,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. A customer would like to design and build a new workload on AWS Cloud but does not have the AWS- related software technical expertise in-hous. <br/>Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+1. A customer would like to design and build a new workload on AWS Cloud but does not have the AWS-related software technical expertise in-house. <br/>Which of the following AWS programs can a customer take advantage of to achieve that outcome?
     - A. AWS Partner Network Technology Partners
     - B. AWS Marketplace
     - C. AWS Partner Network Consulting Partners
