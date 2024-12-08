@@ -34,7 +34,7 @@
 
 ## Practice Exams ( dumps )
 
-- **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+- **[Github Practice Exam List](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/tree/master/practice-exam)**
 
 ## Other AWS And Azure Certification Notes
 
