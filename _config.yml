@@ -39,5 +39,3 @@ defaults:
       path: "/sections/*.md"
     values:
       link: true
-
-exclude: ['practice-exam']
