@@ -152,6 +152,7 @@ Need to know them at a high-level for the Cloud Practitioner Exam
 ## AWS Global Accelerator
 
 - Improve global application availability and performance using the AWS global network
+- Traffic is routed to your applications using the AWS global network instead of the internet.
 - Leverage the AWS internal network to optimize the route to your application (60% improvement)
 - 2 Anycast IP are created for your application and traffic is sent through Edge Locations
 - The Edge locations send the traffic to your application
