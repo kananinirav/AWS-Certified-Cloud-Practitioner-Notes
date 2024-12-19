@@ -505,7 +505,7 @@ If this practice exam has been helpful to you please share it with others and re
     - D. AWS Snowball.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: A
     </details>
 
 50. You have a real-time IoT application that requires sub-millisecond latency. Which of the following services should you use?
