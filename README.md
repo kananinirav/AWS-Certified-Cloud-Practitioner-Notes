@@ -31,6 +31,8 @@
   - Why make a global application?, Amazon Route 53 Overview, Route 53 Routing Policies, AWS CloudFront, AWS Global Accelerator, AWS Outposts, AWS WaveLength, AWS Local Zones
 - [Cloud Integration](sections/cloud_integration.md)
   - Amazon SQS - Simple Queue Service, Amazon Kinesis, Amazon SNS, Amazon MQ
+- [Cloud Monitoring](./sections/cloud_monitoring.md)
+  - Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, Amazon CodeGuru, AWS Status - Service Health Dashboard, AWS Personal Health Dashboard
 
 ## Practice Exams ( dumps )
 
