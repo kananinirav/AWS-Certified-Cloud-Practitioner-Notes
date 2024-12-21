@@ -33,6 +33,8 @@
   - Amazon SQS - Simple Queue Service, Amazon Kinesis, Amazon SNS, Amazon MQ
 - [Cloud Monitoring](./sections/cloud_monitoring.md)
   - Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, Amazon CodeGuru, AWS Status - Service Health Dashboard, AWS Personal Health Dashboard
+- [VPC](./sections/vpc.md)
+  - VPC & Subnets Primer, Internet Gateway & NAT Gateways, Network ACL & Security Groups, VPC Flow Logs, VPC Peering, VPC Endpoints, Site to Site VPN & Direct Connect, Transit Gateway
 
 ## Practice Exams ( dumps )
 
