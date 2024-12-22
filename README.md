@@ -35,10 +35,19 @@
   - Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, Amazon CodeGuru, AWS Status - Service Health Dashboard, AWS Personal Health Dashboard
 - [VPC](./sections/vpc.md)
   - VPC & Subnets Primer, Internet Gateway & NAT Gateways, Network ACL & Security Groups, VPC Flow Logs, VPC Peering, VPC Endpoints, Site to Site VPN & Direct Connect, Transit Gateway
+- [Security & Compliance](sections/security_compliance.md)
+  - AWS Shared Responsibility Model, DDOS Protection on AWS, AWS Shield, AWS WAF - Web Application Firewall, AWS KMS (Key Management Service), CloudHSM, AWS Certificate Manager (ACM), AWS Secrets Manager, AWS Artifact (not really a service), Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Macie, AWS Security Hub, Amazon Detective, AWS Abuse, Root user privileges, IAM Access Analyzer
 
 ## Practice Exams ( dumps )
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
+
+## Buy This AWS Cloud Practitioner Practice Exams PDF
+
+![Ebook_Cover](./images/Ebook_Cover.png)
+
+**[Sample PDF](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
 
 ## Other AWS And Azure Certification Notes
 
