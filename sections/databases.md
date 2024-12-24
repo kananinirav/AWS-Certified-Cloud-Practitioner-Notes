@@ -172,7 +172,7 @@
 ### DynamoDB Accelerator (DAX)
 
 - In-memory caching for DynamoDB.
-- **10x faster** read performance.  ingle-digit millisecond latency to microseconds latency – when accessing your DynamoDB tables
+- **10x faster** read performance.  Single-digit millisecond latency to microseconds latency – when accessing your DynamoDB tables
 - Secure, highly scalable & highly available
 - Ideal for use cases where **low-latency reads** are critical.
 
