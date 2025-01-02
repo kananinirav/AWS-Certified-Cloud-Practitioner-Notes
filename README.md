@@ -37,6 +37,16 @@
   - VPC & Subnets Primer, Internet Gateway & NAT Gateways, Network ACL & Security Groups, VPC Flow Logs, VPC Peering, VPC Endpoints, Site to Site VPN & Direct Connect, Transit Gateway
 - [Security & Compliance](sections/security_compliance.md)
   - AWS Shared Responsibility Model, DDOS Protection on AWS, AWS Shield, AWS WAF - Web Application Firewall, AWS KMS (Key Management Service), CloudHSM, AWS Certificate Manager (ACM), AWS Secrets Manager, AWS Artifact (not really a service), Amazon GuardDuty, Amazon Inspector, AWS Config, Amazon Macie, AWS Security Hub, Amazon Detective, AWS Abuse, Root user privileges, IAM Access Analyzer
+- [Machine Learning](sections/machine_learning.md)
+  - Amazon Rekognition, Amazon Transcribe, Amazon Polly, Amazon Translate, Amazon Lex & Connect, Amazon Comprehend, Amazon SageMaker, Amazon Forecast, Amazon Kendra, Amazon Personalize, Amazon Textract
+- [Account Management, Billing & Support](sections/account_management_billing_support.md)
+  - AWS Organizations, Multi Account Strategies, Service Control Policies (SCP), AWS Organization - Consolidated Billing, AWS Control Tower, AWS Resource Access Manager (AWS RAM), AWS Service Catalog, Pricing Models in AWS, Compute Pricing, Storage Pricing, Database Pricing - RDS, Content Delivery - CloudFront, Networking Costs in AWS per GB - Simplified
+- [Advanced Identity](sections/advanced_identity.md)
+  - AWS STS (SecurityToken Service), Amazon Cognito (simplified), What is Microsoft Active Directory (AD)?, AWS IAM Identity Center
+- [Other AWS Services](sections/other_aws_services.md)
+  - Amazon WorkSpaces, Amazon AppStream 2.0, Amazon Sumerian, AWS IoT Core, Amazon Elastic Transcoder, AWS AppSync, AWS Amplify, AWS Device Farm, AWS Backup, AWS Elastic Disaster Recovery (DRS), AWS DataSync, AWS Application Discovery Service, AWS Application Migration Service (MGN), AWS Migration Evaluator, AWS Migration Hub, AWS Fault Injection Simulator (FIS), AWS Step Functions, AWS Ground Station, AWS Pinpoint
+- [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
+  - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 
 ## Practice Exams ( dumps )
 
