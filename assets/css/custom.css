@@ -57,7 +57,7 @@ details summary {
   padding-left: 1rem;
   margin-bottom: 1rem;
 }
-#bmc-wbtn {
+/* #bmc-wbtn {
   position: fixed !important;
   bottom: 100px !important;
   right: 20px !important;
@@ -68,7 +68,7 @@ details summary {
   #bmc-wbtn {
     display: none !important;
   }
-}
+} */
 .hide-star{
   display: none
 }
