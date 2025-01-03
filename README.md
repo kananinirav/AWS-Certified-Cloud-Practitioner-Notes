@@ -66,13 +66,6 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
 
-## Buy This AWS Cloud Practitioner Practice Exams PDF
-
-![Ebook_Cover](./images/Ebook_Cover.png)
-
-**[Sample PDF](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
-
 ## Other AWS And Azure Certification Notes
 
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
