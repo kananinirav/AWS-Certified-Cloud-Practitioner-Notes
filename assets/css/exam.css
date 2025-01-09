@@ -1,0 +1,65 @@
+
+ol {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+/* Checkbox Styling */
+input[type="checkbox"] {
+  accent-color: #4caf50; /* Green color for checkbox */
+  margin-right: 10px;
+  transform: scale(1.2); /* Slightly larger checkboxes */
+}
+
+/* Button Styling */
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Result Display Styling */
+#result {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+#result h2 {
+  font-size: 24px;
+  color: #4caf50;
+}
+
+#result .percentage {
+  font-size: 20px;
+  color: #ff9800;
+}
+
+.incorrect {
+  background-color: #f8d7da;
+  border: 1px solid #f5c2c7;
+  color: #842029;
+}

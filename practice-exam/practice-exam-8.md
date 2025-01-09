@@ -1,10 +1,8 @@
-# Practice Exam 8
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 8
 
 1. What is the main benefit of attaching security groups to an Amazon RDS instance?
     - A. Manages user access and encryption keys.
@@ -521,6 +519,3 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C, D
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)

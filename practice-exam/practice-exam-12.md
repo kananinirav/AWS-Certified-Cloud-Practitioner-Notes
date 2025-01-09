@@ -1,10 +1,8 @@
-# Practice Exam 12
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 12
 
 1. Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
     - A. Availability Zone
@@ -438,6 +436,3 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: D
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)

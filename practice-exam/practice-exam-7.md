@@ -1,10 +1,8 @@
-# Practice Exam 7
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 7
 
 1. Which of the following can help secure your sensitive data in Amazon S3? (Choose TWO)
     - A. Delete the encryption keys once your data is encrypted.
@@ -520,6 +518,3 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: C
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)
