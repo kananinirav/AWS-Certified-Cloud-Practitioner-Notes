@@ -1,10 +1,8 @@
-# Practice Exam 21
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 21
 
 1. A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software. <br/> Which AWS service can be used to accomplish this?
     - A. Amazon RDS
@@ -693,6 +691,3 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)

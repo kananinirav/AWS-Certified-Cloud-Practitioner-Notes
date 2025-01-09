@@ -1,10 +1,8 @@
-# Practice Exam 16
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 16
 
 1. What will help a company perform a cost benefit analysis of migrating to the AWS Cloud?
     - A. Cost Explorer
@@ -886,6 +884,3 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)

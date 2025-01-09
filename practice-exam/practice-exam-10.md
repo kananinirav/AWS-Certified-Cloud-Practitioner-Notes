@@ -1,10 +1,8 @@
-# Practice Exam 10
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 10
 
 1. Which of the following can an AWS customer use to launch a new Amazon Relational Database Service (Amazon RDS) cluster? (Select TWO)
     - A. AWS Concierge.
@@ -517,6 +515,3 @@ If this practice exam has been helpful to you please share it with others and re
       Correct answer: B
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)

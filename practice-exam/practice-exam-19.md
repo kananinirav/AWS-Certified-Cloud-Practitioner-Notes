@@ -1,10 +1,8 @@
-# Practice Exam 19
-
-Click on the **Answer** button for the correct answer and its explanation.
-
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
+layout: exam
+---
+
+# Practice Exam 19
 
 1. Which AWS offering enables customers to find, buy, and immediately start using software solutions in their AWS environment?
     - A. AWS Config
@@ -752,6 +750,3 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-Please feel free to comment below if any information is inaccurate or if any answers need correction.
-
-[<img align="center" src="../images/list.png" height="30" width="30"/> Exam List](../practice-exam/exams.md)
