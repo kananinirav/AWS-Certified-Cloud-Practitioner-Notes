@@ -10,8 +10,8 @@
 ![Ebook_Cover](./images/Ebook_Cover.png)
 
 **[Sample PDF](./images/AWS-Cloud-Practitioner-Study-Notes-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Study Notes PDF](https://www.buymeacoffee.com/kananinirav/e/151079)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)**
+**[Buy Study Notes PDF](https://ko-fi.com/s/02467fa90c)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://ko-fi.com/s/26525f2067)**
 
 Purchase a PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/bvPmN94) (For kindle unlimited users)**
 
@@ -73,7 +73,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
 
-<a href="https://www.buymeacoffee.com/kananinirav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#26B0A1', 'I2I51B7WW2');kofiwidget2.draw();</script>
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
 

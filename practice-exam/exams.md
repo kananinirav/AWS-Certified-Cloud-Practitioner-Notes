@@ -39,6 +39,6 @@ If this guide has been helpful to you please share it with others and react to t
 ![Ebook_Cover](../images/Ebook_Cover.png)
 
 **[Sample PDF](../images/AWS-Cloud-Practitioner-Practice-Exams-Sample.pdf)** &nbsp; &nbsp; &nbsp;
-**[Buy Practice Exams PDF](https://www.buymeacoffee.com/kananinirav/e/174069)** &nbsp; &nbsp; &nbsp;
+**[Buy Practice Exams PDF](https://ko-fi.com/s/26525f2067)** &nbsp; &nbsp; &nbsp;
 
 Purchase an PDF on Kindle and adjust your region settings for the most favorable price based on your location: **[Kindle Edition](https://a.co/d/7ERcTBI) (free for kindle unlimited users)**

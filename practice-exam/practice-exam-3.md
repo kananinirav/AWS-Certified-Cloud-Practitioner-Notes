@@ -472,7 +472,7 @@ layout: exam
     - B. Reserved instances require at least a one-year pricing commitment.
     - C. There is no additional charge for using dedicated instances.
     - D. Reserved instances provide a significant discount compared to on-demand instances.
-    - E.Reserved instances are best suited for periodic workloads.
+    - E. Reserved instances are best suited for periodic workloads.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
