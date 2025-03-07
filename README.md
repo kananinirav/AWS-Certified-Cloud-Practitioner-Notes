@@ -73,7 +73,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ### If you find the content of this website interesting and helpful, use the “Buy me a Coffee” link below to buy me a coffee
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#26B0A1', 'I2I51B7WW2');kofiwidget2.draw();</script>
+<a href='https://ko-fi.com/I2I51B7WW2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ![gif](https://media.giphy.com/media/gTURHJs4e2Ies/giphy.gif)
 
