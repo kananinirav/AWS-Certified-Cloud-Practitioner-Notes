@@ -1,0 +1,161 @@
+---
+layout: default
+title: Contact Us
+permalink: /contact-us/
+---
+
+<h5>For all questions and suggestions Contact Us using below form. Form submission may take time, so please be patient 😄⏳</h5>
+<div class="formbold-main-wrapper">
+  <div class="formbold-form-wrapper">
+    <form name="submit-to-google-sheet">
+      <div class="formbold-mb-5">
+        <label for="name"> Full Name </label>
+        <input
+          type="text"
+          name="Name"
+          id="name"
+          placeholder="Full Name"
+          class="formbold-form-input"
+          required=true
+        />
+      </div>
+
+      <div class="formbold-mb-5">
+        <label for="email"> Email Address </label>
+        <input
+          type="email"
+          name="Email"
+          id="email"
+          placeholder="Enter your email"
+          class="formbold-form-input"
+          required=true
+        />
+      </div>
+
+      <div class="formbold-mb-5">
+        <label for="subject"> Subject </label>
+        <input
+          type="text"
+          name="Subject"
+          id="subject"
+          placeholder="Enter your subject"
+          class="formbold-form-input"
+          required=true
+        />
+      </div>
+
+      <div class="formbold-mb-5">
+        <label for="message"> Message </label>
+        <textarea
+          rows="6"
+          name="Message"
+          id="message"
+          placeholder="Type your message"
+          class="formbold-form-input"
+          required=true
+        ></textarea>
+      </div>
+
+      <div>
+        <input type="hidden" id="site" name="Site" value="https://kananinirav.com">
+        <button class="formbold-btn">Submit</button>
+      </div>
+    </form>
+    <span id="msg"></span>
+  </div>
+</div>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxQFTlTZ3w-uvQPhq4-_Thbtl6JHYlt0J4BwfIZ1LeWT9bkcAMt0kMNT51soz5UWuHS/exec'
+  const form = document.forms['submit-to-google-sheet']
+  const msg = document.getElementById("msg")
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => {
+        msg.innerHTML = "Thank you for contacting us! We have received your message and will respond as soon as possible. In the meantime, feel free to explore our website. Have a great day!"
+        setTimeout(() => {
+          msg.innerHTML = ""
+        }, 15000);
+        form.reset();
+      })
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+<style>
+  .formbold-mb-5 {
+    margin-bottom: 20px;
+  }
+  .formbold-pt-3 {
+    padding-top: 12px;
+  }
+  .formbold-main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+  .formbold-form-wrapper {
+    margin: 0 auto;
+    /* max-width: 550px; */
+    width: 100%;
+    background: white;
+  }
+
+  .formbold-form-input {
+    width: 100%;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    background: white;
+    font-weight: 500;
+    font-size: 16px;
+    color: #6b7280;
+    outline: none;
+    resize: none;
+  }
+  .formbold-form-input:focus {
+    border-color: #159957;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .formbold-btn {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 14px 32px;
+    border: none;
+    font-weight: 600;
+    background-color: #159957;
+    cursor: pointer;
+  }
+
+  .formbold--mx-3 {
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+  .formbold-px-3 {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .flex {
+    display: flex;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  .w-full {
+    width: 100%;
+  }
+  @media (min-width: 540px) {
+    .sm\:w-half {
+      width: 50%;
+    }
+  }
+  #msg{
+    margin-top: 10px;
+    display: block;
+  }
+</style>
