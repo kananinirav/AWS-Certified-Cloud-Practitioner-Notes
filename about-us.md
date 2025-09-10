@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /about-us/
 ---
 
 # About Us
@@ -17,4 +17,4 @@ We are passionate about providing **developer resources, certification revision 
 
 Whether you’re preparing for a certification, brushing up on concepts, or exploring new technologies, **{{ site.title }}** is here to make learning easier and faster.
 
-If you have suggestions, questions, or collaboration ideas, feel free to reach out via our **[Contact page](/contact/)**.
+If you have suggestions, questions, or collaboration ideas, feel free to reach out via our **[Contact page](/contact-us/)**.
