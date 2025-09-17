@@ -352,7 +352,7 @@ layout: exam
       Correct answer: D
     </details>
 
-35. Much AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
+35. Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Select TWO)
     - A. Amazon EBS.
     - B. AWS Direct Connect.
     - C. Amazon CloudFront.
