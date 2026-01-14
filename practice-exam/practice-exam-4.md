@@ -373,7 +373,7 @@ layout: exam
     - D. AWS Pricing Calculator.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct answer: D
     </details>
 
 37. Which of the following activities supports the Operational Excellence pillar of the AWS Well-Architected Framework?
