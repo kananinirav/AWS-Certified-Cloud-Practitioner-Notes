@@ -68,6 +68,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Other AWS And Azure Certification Notes
 
+- [AWS Certified AI Practitioner Study Notes and Practice Exam (AIF-C01)](https://github.com/kananinirav/aws-certified-ai-practitioner-study-notes)
 - [Microsoft Azure Fundamentals (AZ-900)](https://certification.kananinirav.com/az-900-microsoft-azure-fundamentals/)
 - [Useful Cheat Sheet For Developers](https://certification.kananinirav.com/cheat-sheets/)
 
