@@ -368,7 +368,7 @@ layout: exam
 
 36. TYMO Cloud Corp is looking forward to migrating their entire on-premises data center to AWS. What tool can they use to perform a cost-benefit analysis of moving to the AWS Cloud?
     - A. AWS Cost Explorer.
-    - B. AWS TCO Calculator.
+    - B. AWS Migration Evaluator
     - C. AWS Budgets.
     - D. AWS Pricing Calculator.
 
