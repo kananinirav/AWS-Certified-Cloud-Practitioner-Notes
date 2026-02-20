@@ -8,6 +8,12 @@ Please feel free to comment below if any information is inaccurate or if any ans
 
 If this guide has been helpful to you please share it with others and react to this below.
 
+**Disclaimers:**
+
+- This website is not related to, affiliated with, endorsed or authorized by Amazon.
+- Trademarks, certification & product names are used for reference only and belong to Amazon.
+
+
 ### Exam List
 
 - [Practice Exam - 1](./practice-exam-1.md)

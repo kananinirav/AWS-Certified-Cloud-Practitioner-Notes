@@ -62,7 +62,7 @@ Each Section contains a number of units. **Below Table Link** containing informa
 - [AWS Architecting & Ecosystem](sections/architecting_and_ecosystem.md)
   - Well Architected Framework General Guiding Principles, AWS Cloud Best Practices - Design Principles, Well Architected Framework 6 Pillars, AWS Well-Architected Tool, AWS Right Sizing, AWS Ecosystem - Free resources, AWS Marketplace
 
-## Practice Exams ( dumps )
+## Practice Exams
 
 - **[Practice Exam List](https://kananinirav.com/practice-exam/exams.html)**
 
@@ -85,3 +85,10 @@ Each Section contains a number of units. **Below Table Link** containing informa
 [![Star History Chart](https://api.star-history.com/svg?repos=kananinirav/AWS-Certified-Cloud-Practitioner-Notes&type=Date)](https://star-history.com/#kananinirav/AWS-Certified-Cloud-Practitioner-Notes&Date)
 
 </div>
+
+**Disclaimers:**
+
+- This website is not related to, affiliated with, endorsed or authorized by Amazon.
+- Trademarks, certification & product names are used for reference only and belong to Amazon.
+
+
