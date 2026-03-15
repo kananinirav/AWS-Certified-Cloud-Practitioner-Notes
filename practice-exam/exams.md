@@ -13,6 +13,11 @@ If this guide has been helpful to you please share it with others and react to t
 - This website is not related to, affiliated with, endorsed or authorized by Amazon.
 - Trademarks, certification & product names are used for reference only and belong to Amazon.
 
+<div class="hide-star">
+
+- For better experience, you can visit the website [Free AWS Cloud Practitioner Practice Questions with answers](https://kananinirav.com/practice-exam/exams.html)
+
+</div>
 
 ### Exam List
 
