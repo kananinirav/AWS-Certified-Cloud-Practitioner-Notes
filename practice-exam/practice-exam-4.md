@@ -12,7 +12,7 @@ layout: exam
     - E. AWS Data Pipeline.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: B, D
     </details>
 
 2. Which of the following AWS services scale automatically without your intervention? (Choose TWO)
