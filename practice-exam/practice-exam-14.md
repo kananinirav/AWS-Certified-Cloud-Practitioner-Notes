@@ -285,7 +285,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
     Explanation:
     - AWS Compliance enables customers to establish and operate in an AWS security control environment The shared responsibility model is part of AWS Compliance
