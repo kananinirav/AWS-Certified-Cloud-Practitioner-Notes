@@ -304,7 +304,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B
 
     Explanation: <https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/>
 
