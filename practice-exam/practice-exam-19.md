@@ -694,7 +694,8 @@ layout: exam
 
     </details>
 
-47. What is a user responsible for when running an application in the AWS Cloud?   - A. Managing physical hardware
+47. What is a user responsible for when running an application in the AWS Cloud?   
+    - A. Managing physical hardware
     - B. Updating the underlying hypervisor
     - C. Providing a list of users approved for data center access
     - D. Managing application software updates
