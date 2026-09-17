@@ -12,7 +12,7 @@ layout: exam
     - E. AWS Data Pipeline.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, B
+      Correct answer: B, D
     </details>
 
 2. Which of the following AWS services scale automatically without your intervention? (Choose TWO)
@@ -368,7 +368,7 @@ layout: exam
 
 36. TYMO Cloud Corp is looking forward to migrating their entire on-premises data center to AWS. What tool can they use to perform a cost-benefit analysis of moving to the AWS Cloud?
     - A. AWS Cost Explorer.
-    - B. AWS TCO Calculator.
+    - B. AWS TCO Calculator (Migration Evaluator)
     - C. AWS Budgets.
     - D. AWS Pricing Calculator.
 
