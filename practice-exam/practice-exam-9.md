@@ -340,14 +340,14 @@ layout: exam
       Correct answer: B
     </details>
 
-34. Where can AWS compliance and certification reports be downloaded?
-    - A. AWS Artifact.
-    - B. AWS Concierge.
-    - C. AWS Certificate Manager.
-    - D. AWS Trusted Advisor.
+34. Which AWS service provides on-demand access to AWS security and compliance documentation?
+    - A. AWS Certificate Manager.
+    - B. AWS Trusted Advisor.
+    - C. AWS Artifact.
+    - D. AWS Organizations.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: C
     </details>
 
 35. The financial benefits of using AWS are: (Select TWO)
