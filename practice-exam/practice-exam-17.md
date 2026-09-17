@@ -59,13 +59,11 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: B
 
     Explanation:
-    - To forecast your costs, use the AWS Cost Explorer.
-    - Use cost allocation tags to divide your resources into groups, and then estimate the costs for each group.
-
-    Reference: <https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>
+    - The AWS Simple Monthly Calculator is the older name for what is now generally called the AWS Pricing Calculator. It is used to estimate the monthly cost of a new AWS project before deploying it.
+    - Planning a new AWS project → Pricing Calculator / Simple Monthly Calculator
 
     </details>
 

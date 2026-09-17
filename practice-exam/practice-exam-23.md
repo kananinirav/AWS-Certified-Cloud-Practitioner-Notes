@@ -445,9 +445,9 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
-    Explanation: <https://d36cz9buwru1tt.cloudfront.net/AWS_Building_Fault_Tolerant_Applications.pdf>
+    Explanation: For fault tolerance and business continuity in the event of an environmental disruption, the company should replicate infrastructure across multiple AWS Regions.
 
     </details>
 

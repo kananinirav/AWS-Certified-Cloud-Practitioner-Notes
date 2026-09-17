@@ -493,7 +493,7 @@ layout: exam
     - D. AWS Professional Services.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: C
     </details>
 
 49. What is the AWS serverless service that allows you to run your applications without any administrative burden?

@@ -483,7 +483,7 @@ layout: exam
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: A
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
