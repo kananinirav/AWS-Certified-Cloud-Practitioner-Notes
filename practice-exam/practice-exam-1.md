@@ -83,7 +83,7 @@ layout: exam
     - E. Secure transfer of large amounts of data into and out of the AWS.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, E
+      Correct answer: D, E
     </details>
 
 9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
