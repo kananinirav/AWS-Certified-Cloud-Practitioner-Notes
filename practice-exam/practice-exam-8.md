@@ -442,7 +442,7 @@ layout: exam
     - A. Conduct penetration testing using Amazon Inspector, and then notify AWS support.
     - B. Request and wait for approval from the customer’s internal security team, and then conduct testing.
     - C. Notify AWS support, and then conduct testing immediately.
-    - D. Request and wait for approval from AWS support, and then conduct testing.
+    - D. Conduct testing without prior approval, as long as only AWS permitted services are tested.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
